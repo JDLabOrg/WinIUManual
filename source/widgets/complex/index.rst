@@ -16,3 +16,5 @@ Complex Widgets
     facebook
     progressbar
     svg
+    panel
+    popup
