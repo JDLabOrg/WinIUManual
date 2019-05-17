@@ -10,6 +10,9 @@ Welcome to Windows IUEditor Manual's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   menu/menu
+   screen/screen
+   toolbar/toolbar
 
 
 Indices and tables
