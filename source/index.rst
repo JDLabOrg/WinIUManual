@@ -3,18 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Windows IUEditor Manual's documentation!
-===================================================
+Welcome to Windows {{project_name}}'s documentation!
+=======================================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   introduction/index
    menu/menu
    screen/screen
    toolbar/index
    navigation/index
+   sheet/index
    widgets/index
+   panels/index
+   project/index
+   appendix/index
 
 
 Indices and tables

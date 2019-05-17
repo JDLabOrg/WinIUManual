@@ -14,13 +14,24 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-
 # -- Project information -----------------------------------------------------
+IS_ENABLED_NAMO = True
 
-project = 'Windows IUEditor Manual'
-copyright = '2019, JDLab'
-author = 'JDLab'
+if IS_ENABLED_NAMO:
+    project = 'Windows Namo WebEditor ONE'
+    copyright = '2019, NamoEditor'
+    author = 'NamoEditor'
+    project_name = 'Namo WebEditor ONE'
+else:
+    project = 'Windows IUEditor'
+    copyright = '2019, JDLab'
+    author = 'JDLab'
+    project_name = 'IUEditor'
 
+html_context = {
+    'project_name': project_name
+}
+# rst_epilog = '.. |program_name| replace:: {0}'.format(program_name)
 
 # -- General configuration ---------------------------------------------------
 
@@ -51,3 +62,23 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+
+# Custom render
+# https://www.ericholscher.com/blog/2016/jul/25/integrating-jinja-rst-sphinx/
+def rst_jinja(app, docname, source):
+    """
+    Render our pages as a jinja template for fancy templating goodness.
+    """
+    # Make sure we're outputting HTML
+    if app.builder.format != 'html':
+        return
+    src = source[0]
+    rendered = app.builder.templates.render_string(
+        src, app.config.html_context
+    )
+    source[0] = rendered
+
+
+def setup(app):
+    app.connect("source-read", rst_jinja)
