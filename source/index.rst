@@ -12,7 +12,9 @@ Welcome to Windows IUEditor Manual's documentation!
 
    menu/menu
    screen/screen
-   toolbar/toolbar
+   toolbar/index
+   navigation/index
+   widgets/index
 
 
 Indices and tables
