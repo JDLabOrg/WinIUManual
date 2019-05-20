@@ -23,7 +23,7 @@ Welcome to Windows {{project_name}}'s documentation!
 
 
 Indices and tables
-==================
+=======================
 
 * :ref:`genindex`
 * :ref:`modindex`
