@@ -1,9 +1,9 @@
 Structure
 ================
 
-현재 선택한 페이지에 속한 요소들 (섹션, 헤더, 푸터, 페이지컨텐트, 위젯 등)의 구조를 트리형태로 보여주는 패널입니다.
-요소를 삭제하거나, 드래그 앤 드롭으로 위치를 이동할 수도 있으며, 새로운 섹션을 추가할 수 있습니다.
-또한, 스트럭쳐의 구조를 바꾸거나, 추가된 요소들의 이름은 사용자가 원하는 이름으로 수정이 가능합니다.
+Structure is a panel that shows the structure of elements (sections, headers, footers, page contents, widgets, etc.) that belong to the currently selected page in tree form.
+You can delete elements, move them to drag and drops, or add new sections.
+You can also change the structure of this panel or modify the names of the added elements to the name you want.
 
 .. image:: /_static/navigation/structure/structure_300px.png
 

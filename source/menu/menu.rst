@@ -2,23 +2,23 @@ Menu
 ==============
 File
 --------------
-프로젝트에 관한 설정을 합니다.
+Set up settings for the project.
 
-- New : 새로운 프로젝트를 만듭니다.
-- Open : 저장된 프로젝트를 열 수 있습니다.
-- Recent Files : 최근 사용한 프로젝트를 바로 열 수 있습니다.
-- Save : 현재 프로젝트를 저장합니다.
-- Save As : 현재 프로젝트를 다른 이름으로 저장합니다.
-- Close : 현재 프로젝트를 닫습니다.
-- Exit : 프로그램을 종료합니다.
+- New : Create a new project.
+- Open : Open a saved project.
+- Recent Files : Open a recently used project directly.
+- Save : Save the current project.
+- Save As : Save the current project under a different name.
+- Close : Close the current project.
+- Exit : Exit the program.
 
 Edit
 ------------
-- Undo
-- Redo
-- Copy : 현재 선택된 파일 또는 위젯을 복사합니다.
-- Paste : 현재 복사된 파일 또는 위젯을 붙입니다.
-- Cancel : 현재 상태에 따라 상태를 취소합니다.
+- Undo : Cancel the work in progress and return to the previous step.
+- Redo : Undo the progress you canceled.
+- Copy : Copies the currently selected file or widget.
+- Paste : Pastes the currently copied file or widget.
+- Cancel : Cancels the status according to the current status.
 - 새 위젯을 그리던 도중
     - 위젯 새로 넣기를 취소함
 - 텍스트를 수정 하던 중
@@ -26,7 +26,7 @@ Edit
 
 View
 ----------
-패널들을 보여주거나 포커싱합니다.
+Show or focus panels.
 
 - Project
 - Creation
@@ -41,15 +41,15 @@ View
 
 Canvas
 ---------
-- Refresh : 현재 canvas를 새로 그립니다.
-- Show outline : 위젯의 아웃라인을 그립니다. 위젯의 배경이 없을 때 주로 사용합니다.
+- Refresh : Draw the new canvas.
+- Show outline : Draw the outline of the widget. It is mainly used when there is no widget background.
 - Increase zoom
 - Decrease zoom
 
 Help
 --------
-- About : 프로그램의 현재 버전을 알려줍니다.
-- Home : 사이트로 이동합니다.
+- About : Notifies you of the current version of the program.
+- Home : Go to the Namo WebEditor ONE site.
 - License
 - Acknowledgements
 - Leave Feedback

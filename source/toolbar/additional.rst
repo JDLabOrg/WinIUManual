@@ -1,4 +1,4 @@
-Text Widget
+Additional Widgets
 ---------------
 
 #. Apply a Text Style
