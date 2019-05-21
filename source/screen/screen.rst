@@ -1,8 +1,7 @@
 Screen
 =============
 
-{{project_name}}의 화면은 상단툴바(1), 좌측패널(2), 캔버스(3), 우측패널(4)의 4개의 영역으로 나뉩니다.
+{{project_name}}'s screen is divided into four areas: the upper toolbar (1), the left panel (2), the canvas (3), and the right panel (4).
 
 ..
     todo add a image
-

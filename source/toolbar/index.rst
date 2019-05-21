@@ -7,4 +7,4 @@ Toolbar is located at the top of the screen and is a collection of frequently us
 
 .. toctree::
     default.rst
-    additioanl.rst
+    additioanal.rst
