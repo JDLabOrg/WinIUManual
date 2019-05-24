@@ -38,11 +38,11 @@ Enable Hover Effect
 Enable Link to Scroll Effect
 ``````````````````````````````````````
 
-# Description
+#. Description
     * Widget has id link (page#id)
     * When clicking event on link, smooth scroll to position at link's element
 
-# jQuery Plugin
+#. jQuery Plugin
     .. code-block:: javascript
         :emphasize-lines: 1
 
