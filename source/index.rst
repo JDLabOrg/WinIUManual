@@ -20,6 +20,7 @@ Welcome to Windows {{project_name}}'s documentation!
    panels/index
    project/index
    appendix/index
+   javascript/index
 
 
 Indices and tables

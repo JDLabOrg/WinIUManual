@@ -1,5 +1,9 @@
-Additional Widgets
----------------
+For Widgets
+-------------------
+
+
+Text
+`````````````
 
 #. Apply a Text Style
     .. image:: /_static/toolbar/020_heading.png
