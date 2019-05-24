@@ -13,4 +13,10 @@ kbd {
     line-height: 1;
     padding: 2px 4px;
     white-space: nowrap;
-   }
+}
+
+/* Relocate ads at bottom*/
+.ethical-rtd {
+    bottom: 0;
+    position: absolute;
+}

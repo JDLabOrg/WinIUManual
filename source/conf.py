@@ -69,7 +69,7 @@ def rst_jinja(app, docname, source):
 
 def setup(app):
     app.connect("source-read", rst_jinja)
-    app.add_stylesheet('css/kbd.css')
+    app.add_stylesheet('css/custom.css')
 
 
 # -- Options for HTML output -------------------------------------------------
