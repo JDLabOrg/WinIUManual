@@ -1,7 +1,7 @@
 Javascript for Widget
 ======================
 
-Javascript Version >= 2.1
+{{project_name}} Javascript Version >= 2.1
 
 Initialize
 ----------------
