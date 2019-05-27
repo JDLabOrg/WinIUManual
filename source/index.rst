@@ -14,6 +14,7 @@ Welcome to Windows {{project_name}}'s documentation!
    menu/menu
    screen/screen
    toolbar/index
+   canvas/index
    navigation/index
    sheet/index
    widgets/index
