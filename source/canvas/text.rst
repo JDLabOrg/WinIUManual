@@ -33,7 +33,7 @@ You can use this toolbar to edit and decorate your text. Fonts can be edited in 
     .. image:: /_static/canvas/underline.png
         :height: 44px
 
-    Draw a underline of the text.
+    Draw an underline of the text.
 
 #. Line Through
     .. image:: /_static/canvas/line_through.png
@@ -59,7 +59,7 @@ You can use this toolbar to edit and decorate your text. Fonts can be edited in 
 
     Delete all styles applied to the text.
 
-#. Change Inputbox Background
+#. Change Input box Background
     .. image:: /_static/canvas/reversal.png
         :height: 44px
 
