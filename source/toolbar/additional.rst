@@ -20,6 +20,6 @@ Text
 Button Style
 `````````````
 .. image:: /_static/toolbar/022_btn_style.png
-    :height: 88px
+    :height: 66px
 
 It helps you quickly apply prepared button styles.
