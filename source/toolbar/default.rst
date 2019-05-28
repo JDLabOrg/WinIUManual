@@ -2,13 +2,13 @@ Default Buttons
 -----------------
 
 #. Save All (이미지 변경해야함.)
-    .. image:: /_static/toolbar/001_save.png
+    .. image:: /_static/toolbar/001_saveAll.png
         :height: 44px
 
     Saves all the pages of the current project you are working on.
 
 #. Open
-    .. image:: /_static/toolbar/002_open.png
+    .. image:: /_static/toolbar/002_open_new.png
         :height: 44px
 
     Import projects or files in addition to the project you are working on.
@@ -104,3 +104,9 @@ Default Buttons
         :height: 44px
 
     This property zooms in and out of the canvas.
+
+#. Tracing Screen
+    .. image:: /_static/toolbar/023_tracing.png
+        :height: 44px
+
+    Tracing Screen is a function that allows you to insert the desired image into the work area.
