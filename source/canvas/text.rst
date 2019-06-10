@@ -6,7 +6,7 @@ The Text Floating Tool bar is a toolbar that collects all the elements that make
 You can use this toolbar to edit and decorate your text. Fonts can be edited in the Style menu in the right panel.
 
 .. list-table::
-    :widths: 100 100 500
+    :widths: 10 20 30
     :header-rows: 1
 
     * - UI

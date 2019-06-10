@@ -2,7 +2,7 @@ Default Buttons
 -----------------
 
 .. list-table::
-    :widths: 150 150 500
+    :widths: 10 10 30
     :header-rows: 1
 
     * - UI
