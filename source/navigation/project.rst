@@ -10,7 +10,7 @@ Buttons
 --------------
 
 .. list-table::
-    :widths: 3 10
+    :widths: 3 10 10
     :header-rows: 1
 
     * - UI
@@ -20,29 +20,29 @@ Buttons
     * - .. image:: /_static/navigation/project/ic_project_create_page.png
           :height: 66px
       - Create a page
-      - Cre
+      - Create a new page.
 
     * - .. image:: /_static/navigation/project/ic_project_create_composition.png
           :height: 66px
       - Create a composition
-      - subtext
+      - Create a new composition.
 
     * - .. image:: /_static/navigation/project/ic_add_resource.png
           :height: 66px
       - Add a resource (mage, css, js and more)
-      - subtext
+      - Lets you import and add resources that you have.
 
     * - .. image:: /_static/navigation/project/ic_project_create_library.png
           :height: 66px
       - Create a library
-      - subtext
+      - Create a library.
 
     * - .. image:: /_static/navigation/project/ic_add_reference.png
           :height: 66px
       - Add a reference
-      - subtext
+      - Add a reference to the project.
 
     * - .. image:: /_static/navigation/structure/ic_trash_new.png
           :height: 66px
       - Create a page
-      - subtext
+      - Deletes the selected page.

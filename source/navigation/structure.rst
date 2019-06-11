@@ -11,7 +11,7 @@ Buttons
 --------------
 
 .. list-table::
-    :widths: 3 10 
+    :widths: 3 10 10
     :header-rows: 1
 
     * - UI
@@ -21,39 +21,39 @@ Buttons
     * - .. image:: /_static/navigation/structure/ic_structure_add_new.png
           :height: 66px
       - Add an widget
-      - subtext
+      - Shows a list of panel and pop-up additions.
 
     * - .. image:: /_static/navigation/structure/ic_add_panel.png
           :height: 66px
       - Add Panel (Add an widget)
-      - subtext
+      - Adds a panel to the selected structure.
 
     * - .. image:: /_static/navigation/structure/ic_add_popup.png
           :height: 66px
       - Add Pop-Up (Add an widget)
-      - subtext
+      - Adds a pop-up to the selected structure.
 
     * - .. image:: /_static/navigation/structure/ic_structure_layout_01.png
           :height: 66px
       - Change an layout (Content only)
-      - subtext
+      - Set the layout of the structure to have content areas only.
 
     * - .. image:: /_static/navigation/structure/ic_structure_layout_02.png
           :height: 66px
       - Change an layout (Header, Content & Footer)
-      - subtext
+      - Set the layout of the structure to header, content, footer.
 
     * - .. image:: /_static/navigation/structure/ic_structure_layout_03.png
           :height: 66px
       - Change an layout (Header & Content)
-      - subtext
+      - Set the layout of the structure to header and content.
 
     * - .. image:: /_static/navigation/structure/ic_structure_layout_04.png
           :height: 66px
       - Change an layout (Content & Footer)
-      - subtext
+      - Set the layout of the structure to content and footer.
 
     * - .. image:: /_static/navigation/structure/ic_trash_new.png
           :height: 66px
       - Delete widget(s)
-      - subtext
+      - Deletes the selected widget.
