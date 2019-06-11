@@ -7,6 +7,7 @@ Initialize
 ----------------
 
 Initialize all descendents of element as IU WIDGET.
+
 .. code-block:: javascript
 
     IUDOMReady($element)

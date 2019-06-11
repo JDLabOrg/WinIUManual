@@ -4,4 +4,4 @@ Panels
     style
     link
     event
-    advanced
+    detail
