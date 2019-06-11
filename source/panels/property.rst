@@ -35,8 +35,3 @@ Property
     .. image:: /_static/panels/style/shadow.png
 
     Sets the transparency and position of the shadow of the selected widget.
-
-- Properties
-    .. image:: /_static/panels/style/properties.png
-
-    Change individual properties of each selected widget. The items that can be set for each widget are different.
