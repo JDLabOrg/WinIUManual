@@ -1,8 +1,13 @@
 Widget's Property
 ---------------------
 
-- Static Image
-    .. image:: /_static/panels/style/property/001_static.png
+.. _static_image_property:
+
+Static Image
+```````````````
+.. image:: /_static/panels/style/property/001_static.png
+
+See :doc:`characteristics</widgets/basic/staticImage>`.
 
     The static image property allows you to retrieve or insert the image you have through a URL.
 
