@@ -19,14 +19,6 @@ Welcome to Windows {{project_name}}'s documentation!
    sheet/index
    widgets/index
    panels/index
-   project/index
+   setting/index
    appendix/index
    javascript/index
-
-
-Indices and tables
-=======================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
