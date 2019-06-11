@@ -19,25 +19,15 @@ Edit
 - Copy : Copies the currently selected file or widget.
 - Paste : Pastes the currently copied file or widget.
 - Cancel : Cancels the status according to the current status.
-- 새 위젯을 그리던 도중
-    - 위젯 새로 넣기를 취소함
-- 텍스트를 수정 하던 중
-    - 텍스트 수정 모드를 빠져나옴
+  - Cancel adding a new widget while drawing a new one.
+  - When you are editing text, you leave the Text Edit Mode.
 
 View
 ----------
 Show or focus panels.
 
-- Project
-- Creation
-- Structure
-- Style
-- Layout
-- Properties
-- Mouseover
-- Link
-- Developer
-- Start page : start page를 보여주거나 감춥니다.
+- Developer : Open the developer view panel.
+- Start page : Show or close the start page.
 
 Canvas
 ---------
