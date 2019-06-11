@@ -7,91 +7,158 @@ Static Image
 ```````````````
 .. image:: /_static/panels/style/property/001_static.png
 
+The static image property allows you to retrieve or insert the image you have through a URL.
 See :doc:`characteristics</widgets/basic/staticImage>`.
 
-    The static image property allows you to retrieve or insert the image you have through a URL.
+.. _icon_button_property:
 
-- Image and Text
-    .. image:: /_static/panels/style/property/002_imgntext.png
+Image and Text
+``````````````````
+.. image:: /_static/panels/style/property/002_imgntext.png
 
-    The image and text properties allow you to modify the alignment and spacing of images and text, insert and modify text and images.
+The image and text properties allow you to modify the alignment and spacing of images and text, insert and modify text and images.
+See :doc:`characteristics</widgets/basic/iconButton>`.
 
-- Table
-    .. image:: /_static/panels/style/property/003_table.png
+.. _carousel_property:
 
-    The table property allows quick creation through the input of the row and column.
+Carousel
+`````````````````````````````
+.. image:: /_static/panels/style/property/004_carousel.png
 
-- Carousel
-    .. image:: /_static/panels/style/property/004_carousel.png
+The carousel property allows you to modify the quantity of content, shape, location, color, and so on.
+See :doc:`characteristics</widgets/complex/carousel>`.
 
-    The carousel property allows you to modify the quantity of content, shape, location, color, and so on.
+.. _video_property:
 
-- Video
-    .. image:: /_static/panels/style/property/005_video.png
+Video
+```````````````
+.. image:: /_static/panels/style/property/005_video.png
 
-    Video properties allow you to insert resources or modify thumbnails.
+Video properties allow you to insert resources or modify thumbnails.
+See :doc:`characteristics</widgets/complex/videoClip>`.
 
-- Youtube
-    .. image:: /_static/panels/style/property/006_youtube.png
+.. _webmovie_property:
 
-    The youtube property allows you to enter the url of the video you want to insert immediately.
+Youtube and Vimeo
+```````````````````````
+.. image:: /_static/panels/style/property/006_youtube.png
 
-- Progress Bar
-    .. image:: /_static/panels/style/property/007_progress.png
+The youtube/Viemo property allows you to enter the url of the video you want to insert immediately.
+See :doc:`characteristics</widgets/complex/webMovie>`.
 
-    The process bar property manages colors, basic progress state, and appearance.
+.. _progressbar_property:
 
-- Tab View
-    .. image:: /_static/panels/style/property/008_tab.png
+Progress Bar
+``````````````
+.. image:: /_static/panels/style/property/007_progress.png
 
-    The tab view property manages the number of tab.
+The process bar property manages colors, basic progress state, and appearance.
+See :doc:`characteristics</widgets/complex/progressbar>`.
 
-- Simple Tab View
-    .. image:: /_static/panels/style/property/009_simple.png
+.. _tabview_property:
 
-    The tab view property manages the number and color of the tab, font color, and thickness and color of the line.
+Tab View
+```````````
+.. image:: /_static/panels/style/property/008_tab.png
 
-- Collapsible
-    .. image:: /_static/panels/style/property/010_collapsible.png
+The tab view property manages the number of tab.
+See :doc:`characteristics</widgets/complex/tabview>`.
 
-    The collapsable property manages header type and content orientation.
+.. _simple_tabview_property:
 
-- SVG
-    .. image:: /_static/panels/style/property/011_svg_new.png
+Simple Tab View
+```````````````````````
+.. image:: /_static/panels/style/property/009_simple.png
 
-    The svg property allows you to set the role or change the color of the inserted graphic.
+The tab view property manages the number and color of the tab, font color, and thickness and color of the line.
+See :doc:`characteristics</widgets/complex/simpleTabview>`.
 
-- Slider
-    .. image:: /_static/panels/style/property/012_slider.png
+.. _collapsible_property:
 
-    The slider property allows you to set the value of the slider and the color of the active state.
+Collapsible
+````````````````
+.. image:: /_static/panels/style/property/010_collapsible.png
 
-- Range Slider
-    .. image:: /_static/panels/style/property/013_range.png
+The collapsible property manages header type and content orientation.
+See :doc:`characteristics</widgets/complex/collapsible>`.
 
-    The range slider property allows you to set the value of the slider and the color of the active state.
+.. _svg_property:
 
-- Button
-    .. image:: /_static/panels/style/property/014_btn.png
+SVG
+``````````````
+.. image:: /_static/panels/style/property/011_svg_new.png
 
-    The button property allows you to set the label of a button.
+The svg property allows you to set the role or change the color of the inserted graphic.
+See :doc:`characteristics</widgets/complex/svg>`.
 
-- Input Text
-    .. image:: /_static/panels/style/property/015_input_txt.png
+.. _table_property:
 
-    The input text property allows you to modify the type, text, and placeholder.
+Table
+``````````````````````
+.. image:: /_static/panels/style/property/003_table.png
 
-- Input Paragraph
-    .. image:: /_static/panels/style/property/016_input_p.png
+The table property allows quick creation through the input of the row and column.
+See :doc:`characteristics</widgets/complex/table>`.
 
-    The input paragraph property allows you to modify the placeholder and paragraph text.
+.. _slider_property:
 
-- Label
-    .. image:: /_static/panels/style/property/017_label.png
+Slider
+`````````````
+.. image:: /_static/panels/style/property/012_slider.png
 
-    The label property allows you to modify the text.
+The slider property allows you to set the value of the slider and the color of the active state.
+See :doc:`characteristics</widgets/programming/slide>`.
 
-- Select
-    .. image:: /_static/panels/style/property/018_select.png
+.. _range_slider_property:
 
-    In the select property, you can add or delete values and modify the name of the values.
+Range Slider
+````````````````````````
+.. image:: /_static/panels/style/property/013_range.png
+
+The range slider property allows you to set the value of the slider and the color of the active state.
+See :doc:`characteristics</widgets/programming/rangeslide>`.
+
+.. _button_property:
+
+Button
+```````````````
+.. image:: /_static/panels/style/property/014_btn.png
+
+The button property allows you to set the label of a button.
+See :doc:`characteristics</widgets/programming/button>`.
+
+.. _input_text_property:
+
+Input Text
+````````````
+.. image:: /_static/panels/style/property/015_input_txt.png
+
+The input text property allows you to modify the type, text, and placeholder.
+See :doc:`characteristics</widgets/programming/inputText>`.
+
+.. _input_paragraph_property:
+
+Input Paragraph
+`````````````````
+.. image:: /_static/panels/style/property/016_input_p.png
+
+The input paragraph property allows you to modify the placeholder and paragraph text.
+See :doc:`characteristics</widgets/programming/inputParagraphText>`.
+
+.. _label_property:
+
+Label
+`````````````
+.. image:: /_static/panels/style/property/017_label.png
+
+The label property allows you to modify the text.
+See :doc:`characteristics</widgets/programming/label>`.
+
+.. _select_property:
+
+Select
+``````````````
+.. image:: /_static/panels/style/property/018_select.png
+
+In the select property, you can add or delete values and modify the name of the values.
+See :doc:`characteristics</widgets/programming/select>`.

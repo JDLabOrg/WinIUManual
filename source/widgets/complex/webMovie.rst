@@ -6,3 +6,5 @@ Web Movie widget supports Youtube or Vimeo. You can use Web Movie widget with **
 
 * ``Vimeo`` : http://vimeo.com/ **videoURL**
 * ``Youtube`` : http://youtu.be/ **videoURL**
+
+See :ref:`properties<webmovie_property>`.
