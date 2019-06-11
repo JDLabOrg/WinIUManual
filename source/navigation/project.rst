@@ -9,15 +9,40 @@ It consists of functions such as page creation, composition creation, resource a
 Buttons
 --------------
 
-- Create a page
-    .. image:: /_static/navigation/project/ic_project_create_page.png
-- Create a composition
-    .. image:: /_static/navigation/project/ic_project_create_composition.png
-- Add a resource (image, js, css ...)
-    .. image:: /_static/navigation/project/ic_add_resource.png
-- Create a library
-    .. image:: /_static/navigation/project/ic_project_create_library.png
-- Add a reference
-    .. image:: /_static/navigation/project/ic_add_reference.png
-- Delete
-    .. image:: /_static/navigation/structure/ic_trash_new.png
+.. list-table::
+    :widths: 3 10
+    :header-rows: 1
+
+    * - UI
+      - Name
+      - Description
+
+    * - .. image:: /_static/navigation/project/ic_project_create_page.png
+          :height: 66px
+      - Create a page
+      - Cre
+
+    * - .. image:: /_static/navigation/project/ic_project_create_composition.png
+          :height: 66px
+      - Create a composition
+      - subtext
+
+    * - .. image:: /_static/navigation/project/ic_add_resource.png
+          :height: 66px
+      - Add a resource (mage, css, js and more)
+      - subtext
+
+    * - .. image:: /_static/navigation/project/ic_project_create_library.png
+          :height: 66px
+      - Create a library
+      - subtext
+
+    * - .. image:: /_static/navigation/project/ic_add_reference.png
+          :height: 66px
+      - Add a reference
+      - subtext
+
+    * - .. image:: /_static/navigation/structure/ic_trash_new.png
+          :height: 66px
+      - Create a page
+      - subtext
