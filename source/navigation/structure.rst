@@ -11,10 +11,7 @@ Buttons
 --------------
 
 .. list-table::
-<<<<<<< HEAD
     :widths: 3 10 10
-=======
->>>>>>> dded8dbfe4d2276ec1274ce02859fea0b8dae546
     :header-rows: 1
 
     * - UI
