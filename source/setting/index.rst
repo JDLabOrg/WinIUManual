@@ -19,6 +19,11 @@ Build
 
 Build is a menu for setting options such as path, resource path, port, etc. to build the project.
 
+- Environment Variables
+    - **$CurrentFolder** : The parent directory of a project directory that contains the current project file(.webproj).
+    - **$AppName** : The project name.
+    - **$HomeFolder** : User home directory.
+
 CSS/JS
 --------------
 .. image:: /_static/setting/css.png
