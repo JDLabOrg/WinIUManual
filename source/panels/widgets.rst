@@ -162,3 +162,12 @@ Select
 
 In the select property, you can add or delete values and modify the name of the values.
 See :doc:`characteristics</widgets/programming/select>`.
+
+.. _import_property:
+
+Import
+``````````````
+.. image:: /_static/panels/style/property/019_import.png
+
+In the import property, you can change or delete composition.
+See :doc:`characteristics</widgets/complex/import>`.
