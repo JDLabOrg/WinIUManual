@@ -20,3 +20,14 @@ kbd {
     bottom: 0;
     position: absolute;
 }
+
+/* custom css */
+.prevent-responsive-table td, .prevent-responsive-table th {
+     white-space: normal !important;
+}
+.prevent-responsive-table th {
+    vertical-align: middle;
+}
+.prevent-responsive-table th p {
+    margin: 0;
+}

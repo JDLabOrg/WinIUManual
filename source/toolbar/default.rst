@@ -2,7 +2,8 @@ Default Buttons
 -----------------
 
 .. list-table::
-    :widths: 10  10 30
+    :class: prevent-responsive-table
+    :widths: 10 10 30
     :header-rows: 1
 
     * - UI
