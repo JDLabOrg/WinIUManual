@@ -158,7 +158,7 @@ See :doc:`characteristics</widgets/programming/label>`.
 
 Select
 ``````````````
-.. image:: /_static/panels/style/property/018_select.png
+.. image:: /_static/panels/style/property/018_select_new.png
 
 In the select property, you can add or delete values and modify the name of the values.
 See :doc:`characteristics</widgets/programming/select>`.
