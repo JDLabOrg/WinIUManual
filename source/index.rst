@@ -26,6 +26,7 @@ Welcome to Windows {{project_name}}'s documentation!
    widgets/index
    panels/index
    setting/index
+   developer/index
    appendix/index
 
 .. toctree::
