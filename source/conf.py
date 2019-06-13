@@ -28,7 +28,7 @@ else:
     author = 'JDLab'
     project_name = 'IUEditor'
 
-html_context = {
+build_context = {
     'project_name': project_name
 }
 # rst_epilog = '.. |program_name| replace:: {0}'.format(program_name)
@@ -65,13 +65,12 @@ def rst_jinja(app, docname, source):
     Render our pages as a jinja template for fancy templating goodness.
     """
     # Make sure we're outputting HTML
-    if app.builder.format != 'html':
-        return
-    src = source[0]
-    rendered = app.builder.templates.render_string(
-        src, app.config.html_context
-    )
-    source[0] = rendered
+    if app.builder.format == 'html' or app.builder.format == 'pdf':
+        src = source[0]
+        rendered = app.builder.templates.render_string(
+            src, app.config.build_context
+        )
+        source[0] = rendered
 
 
 def setup(app):

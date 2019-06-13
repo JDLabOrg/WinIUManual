@@ -13,10 +13,10 @@ Text
 
 #. Insert LoremIpsum
 
-.. image:: /_static/toolbar/021_lorem.png
-    :height: 44px
+    .. image:: /_static/toolbar/021_lorem.png
+        :height: 44px
 
-It is a function that can generate dummy text matching sentence, paragraph, number, e-mail address, and other forms.
+    It is a function that can generate dummy text matching sentence, paragraph, number, e-mail address, and other forms.
 
 
 Button Style
