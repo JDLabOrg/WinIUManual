@@ -68,7 +68,7 @@ def rst_jinja(app, docname, source):
     if app.builder.format == 'html' or app.builder.format == 'pdf':
         src = source[0]
         rendered = app.builder.templates.render_string(
-            src, app.config.build_context
+            src, build_context
         )
         source[0] = rendered
 
