@@ -3,19 +3,19 @@ Project Setting
 
 Site Info
 --------------
-.. image:: /_static/setting/info.png
+.. image:: /_static/setting/set_01.png
 
 Site Info is the menu to set project file name, favicon, and other items.
 
 Media Query
 --------------
-.. image:: /_static/setting/media.png
+.. image:: /_static/setting/set_02.png
 
 Media Query is a menu that sets options related to the size of the project or the event.
 
 Build
 --------------
-.. image:: /_static/setting/build.png
+.. image:: /_static/setting/set_03.png
 
 Build is a menu for setting options such as path, resource path, port, etc. to build the project.
 
@@ -26,12 +26,12 @@ Build is a menu for setting options such as path, resource path, port, etc. to b
 
 CSS/JS
 --------------
-.. image:: /_static/setting/css.png
+.. image:: /_static/setting/set_04.png
 
 CSS/JS is a menu where you can add the css or javascript file you want to use in your project.
 
 External API
 --------------
-.. image:: /_static/setting/api.png
+.. image:: /_static/setting/set_05.png
 
 External API is a menu for configuring the external APIs used in the project.
