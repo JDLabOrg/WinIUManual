@@ -13,6 +13,7 @@ Initialize all descendents of element as IU WIDGET.
     IUDOMReady($element)
 
 - Example
+
     .. code-block:: javascript
 
         IUDOMReady($('body'))

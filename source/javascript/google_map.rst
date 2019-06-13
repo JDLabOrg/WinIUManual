@@ -28,6 +28,7 @@ Google Map
           - Move map position to center
 
 #. Google map lazy initialization
+
     .. code-block:: javascript
         :emphasize-lines: 1
 

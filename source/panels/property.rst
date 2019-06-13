@@ -1,37 +1,50 @@
 Property
 --------------
 
-- Layout
-    .. image:: /_static/panels/style/layout.png
+Layout
+```````````````````````
+.. image:: /_static/panels/style/layout.png
 
-    Sets the location and size of the selected widget.
+Sets the location and size of the selected widget.
 
-- Text
-    .. image:: /_static/panels/style/text.png
+Text
+```````````````````````
 
-    Set the font type, size, color, thickness, alignment and kerning.
+.. image:: /_static/panels/style/text.png
 
-- Image
-    .. image:: /_static/panels/style/img.png
+Set the font type, size, color, thickness, alignment and kerning.
 
-    Attaches an image to the selected widget or sets the alignment of the inserted image.
+Image
+```````````````````````
 
-- Fill
-    .. image:: /_static/panels/style/fill.png
+.. image:: /_static/panels/style/img.png
 
-    Changes the color of the selected widget.
+Attaches an image to the selected widget or sets the alignment of the inserted image.
 
-- Gradient
-    .. image:: /_static/panels/style/gradient.png
+Fill
+```````````````````````
 
-    Sets the color of the selected widget to the gradient.
+.. image:: /_static/panels/style/fill.png
 
-- Border
-    .. image:: /_static/panels/style/border.png
+Changes the color of the selected widget.
 
-    Changes the line color of the selected widget.
+Gradient
+```````````````````````
 
-- Shadow
-    .. image:: /_static/panels/style/shadow.png
+.. image:: /_static/panels/style/gradient.png
 
-    Sets the transparency and position of the shadow of the selected widget.
+Sets the color of the selected widget to the gradient.
+
+Border
+```````````````````````
+
+.. image:: /_static/panels/style/border.png
+
+Changes the line color of the selected widget.
+
+Shadow
+```````````````````````
+
+.. image:: /_static/panels/style/shadow.png
+
+Sets the transparency and position of the shadow of the selected widget.

@@ -8,6 +8,7 @@ You can use this toolbar to edit and decorate your text. Fonts can be edited in 
 .. list-table::
     :widths: 10 20 30
     :header-rows: 1
+    :class: prevent-responsive-table
 
     * - UI
       - Name

@@ -37,6 +37,8 @@ Slider
 
     .. list-table::
         :header-rows: 1
+        :widths: 2 2 2 7 7
+        :class: prevent-responsive-table
 
         * - Method
           - Param
