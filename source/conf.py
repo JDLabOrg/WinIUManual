@@ -34,12 +34,14 @@ html_context = {
 # rst_epilog = '.. |program_name| replace:: {0}'.format(program_name)
 
 # -- General configuration ---------------------------------------------------
+master_doc = 'index'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-'recommonmark'
+    'recommonmark',
+    'sphinxcontrib.images',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -50,6 +52,11 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+# image options
+# ref : https://pythonhosted.org/sphinxcontrib-images/
+images_config = {
+
+}
 
 # Custom render
 # https://www.ericholscher.com/blog/2016/jul/25/integrating-jinja-rst-sphinx/

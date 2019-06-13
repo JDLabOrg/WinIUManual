@@ -12,6 +12,7 @@ Buttons
 .. list-table::
     :widths: 3 10 10
     :header-rows: 1
+    :class: prevent-responsive-table
 
     * - UI
       - Name

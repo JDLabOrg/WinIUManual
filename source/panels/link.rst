@@ -8,23 +8,31 @@ It is a function to set a hyperlink to the URL or pop-up that enters the selecte
 Type
 --------
 
-- Page Type
-    .. image:: /_static/panels/link/page_type.png
+Page Type
+``````````````````
 
-    The page type sets the location of the page to which you want to connect and the corresponding widget.
+.. image:: /_static/panels/link/page_type.png
+
+The page type sets the location of the page to which you want to connect and the corresponding widget.
 
 
-- URL Type
-    .. image:: /_static/panels/link/url_type.png
+URL Type
+``````````````````
 
-    URL type sets the page to connect to using url.
+.. image:: /_static/panels/link/url_type.png
 
-- Panel Type
-    .. image:: /_static/panels/link/panel_type.png
+URL type sets the page to connect to using url.
 
-    For panel type, select the panel in the list to set the link type.
+Panel Type
+``````````````````
 
-- Pop-Up Type
-    .. image:: /_static/panels/link/popup_type.png
+.. image:: /_static/panels/link/panel_type.png
 
-    For pop-up type, select the pop-up in the list to set the link type.
+For panel type, select the panel in the list to set the link type.
+
+Pop-Up Type
+``````````````````
+
+.. image:: /_static/panels/link/popup_type.png
+
+For pop-up type, select the pop-up in the list to set the link type.

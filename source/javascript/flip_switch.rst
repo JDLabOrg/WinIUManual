@@ -32,6 +32,8 @@ Flip Switch
     .. list-table::
         :header-rows: 1
         :stub-columns: 1
+        :widths: 1 1 1 5 1
+        :class: prevent-responsive-table
 
         * - Method
           - Param

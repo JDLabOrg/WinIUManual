@@ -31,6 +31,8 @@ Switch
 
     .. list-table::
         :header-rows: 1
+        :widths: 1 1 1 7
+        :class: prevent-responsive-table
 
         * - Method
           - Param
