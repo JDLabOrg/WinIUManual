@@ -11,7 +11,7 @@ Site Information
     :group: setting
     :title: Site Information
 
-Site Information is the menu to set project file name, favicon, and other items.
+            Site Information is the menu to set project file name, favicon, and other items.
 
 Media Query
 --------------
@@ -20,7 +20,7 @@ Media Query
     :group: setting
     :title: Media Query
 
-Media Query is a menu that sets options related to the size of the project or the event.
+            Media Query is a menu that sets options related to the size of the project or the event.
 
 - Add new size
 
@@ -35,7 +35,7 @@ Build
     :group: setting
     :title: Build
 
-Build is a menu for setting options such as path, resource path, port, etc. to build the project.
+            Build is a menu for setting options such as path, resource path, port, etc. to build the project.
 
 - Environment Variables
     - **$CurrentFolder** : The parent directory of a project directory that contains the current project file(.webproj).
@@ -49,7 +49,7 @@ CSS/JS
     :group: setting
     :title: CSS / Javascript
 
-CSS/JS is a menu where you can add the css or javascript file you want to use in your project.
+            CSS/JS is a menu where you can add the css or javascript file you want to use in your project.
 
 External API
 --------------
@@ -58,4 +58,4 @@ External API
     :group: setting
     :title: External API
 
-External API is a menu for configuring the external APIs used in the project.
+            External API is a menu for configuring the external APIs used in the project.
