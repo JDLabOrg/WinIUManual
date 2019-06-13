@@ -16,7 +16,7 @@ Media Query is a menu that sets options related to the size of the project or th
 - Add new size
     .. image:: /_static/setting/add_size.png
 
-    input text
+    You can add or change the size of mediaquery using add new size.
 
 Build
 --------------
