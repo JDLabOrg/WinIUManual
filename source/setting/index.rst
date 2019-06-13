@@ -1,5 +1,6 @@
 Project Setting
 ===================================================
+project setting is a function that allows you to change settings for information about the project, media query, code, and so on.
 
 Site Info
 --------------
