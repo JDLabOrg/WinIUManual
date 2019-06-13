@@ -13,6 +13,11 @@ Media Query
 
 Media Query is a menu that sets options related to the size of the project or the event.
 
+- Add new size
+    .. image:: /_static/setting/add_size.png
+
+    input text
+
 Build
 --------------
 .. image:: /_static/setting/set_03.png
