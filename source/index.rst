@@ -8,9 +8,15 @@ Welcome to Windows {{project_name}}'s documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Introduction
 
-   introduction/index
+   introduction/whatis
+   introduction/env
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents
+
    menu/menu
    screen/screen
    toolbar/index
@@ -21,4 +27,9 @@ Welcome to Windows {{project_name}}'s documentation!
    panels/index
    setting/index
    appendix/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: External API
+
    javascript/index
