@@ -58,6 +58,7 @@ images_config = {
 
 }
 
+
 # Custom render
 # https://www.ericholscher.com/blog/2016/jul/25/integrating-jinja-rst-sphinx/
 def rst_jinja(app, docname, source):
@@ -65,12 +66,17 @@ def rst_jinja(app, docname, source):
     Render our pages as a jinja template for fancy templating goodness.
     """
     # Make sure we're outputting HTML
-    # if app.builder.format == 'html' or app.builder.format == 'pdf':
     src = source[0]
-    rendered = app.builder.templates.render_string(
-        src, app.config.build_context
-    )
-    source[0] = rendered
+    if app.builder.format == 'html':
+        rendered = app.builder.templates.render_string(
+            src, app.config.build_context
+        )
+        source[0] = rendered
+    elif app.builder.format == 'latex':
+        rendered = app.builder.render_string(
+            src, app.config.build_context
+        )
+        source[0] = rendered
 
 
 def setup(app):
