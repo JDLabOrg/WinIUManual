@@ -86,7 +86,7 @@ See :doc:`characteristics</widgets/complex/collapsible>`.
 
 SVG
 ``````````````
-.. image:: /_static/panels/style/property/011_svg_new.png
+.. image:: /_static/panels/style/property/011_svg.png
 
 The svg property allows you to set the role or change the color of the inserted graphic.
 See :doc:`characteristics</widgets/complex/svg>`.
@@ -158,7 +158,7 @@ See :doc:`characteristics</widgets/programming/label>`.
 
 Select
 ``````````````
-.. image:: /_static/panels/style/property/018_select_new.png
+.. image:: /_static/panels/style/property/018_select.png
 
 In the select property, you can add or delete values and modify the name of the values.
 See :doc:`characteristics</widgets/programming/select>`.
