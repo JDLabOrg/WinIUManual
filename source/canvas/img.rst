@@ -5,4 +5,4 @@ unsplash is a function that allows you to search and insert images uploaded to u
 and image is a menu that allows you to load and use images you have.
 
 
-.. image:: /_static/canvas/img_popup.png
+.. image:: /_static/canvas/img_popup_new.png
