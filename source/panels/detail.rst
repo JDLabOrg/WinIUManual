@@ -2,7 +2,7 @@ Detail
 =============================
 
   .. thumbnail:: /_static/panels/detail/detail_new.png
-      :width: 100%
+      :width: 40%
       :group: panels
       :title: Detail
 
