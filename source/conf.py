@@ -58,7 +58,9 @@ images_config = {
 
 }
 
+
 from sphinx.util.template import LaTeXRenderer
+
 
 # Custom render
 # https://www.ericholscher.com/blog/2016/jul/25/integrating-jinja-rst-sphinx/
