@@ -1,4 +1,4 @@
-Panels
+Right Panel
 =========================
 .. toctree::
     style

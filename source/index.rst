@@ -15,19 +15,23 @@ Welcome to Windows {{project_name}}'s documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Screen
 
-   menu/menu
    screen/screen
+   menu/index
    toolbar/index
    canvas/index
    navigation/index
+   panels/index
+   developer/index
+   setting/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Widgets
+
    sheet/index
    widgets/index
-   panels/index
-   setting/index
-   developer/index
-   appendix/index
 
 .. toctree::
    :maxdepth: 2

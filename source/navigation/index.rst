@@ -1,4 +1,4 @@
-Navigation Panels
+Left Panel
 ====================
 
 .. toctree::

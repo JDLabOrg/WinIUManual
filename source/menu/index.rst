@@ -1,5 +1,6 @@
-Appendix
+Menu
 ===================================================
 
 .. toctree::
+    menu
     shortcut
