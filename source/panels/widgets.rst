@@ -19,7 +19,7 @@ Image and Text
 The image and text properties allow you to modify the alignment and spacing of images and text, insert and modify text and images.
 See :doc:`characteristics</widgets/basic/iconButton>`.
 
-.. _carousel_property:
+.. _carousel_style_property:
 
 Carousel
 `````````````````````````````
@@ -55,7 +55,7 @@ Progress Bar
 The process bar property manages colors, basic progress state, and appearance.
 See :doc:`characteristics</widgets/complex/progressbar>`.
 
-.. _tabview_property:
+.. _tabview_style_property:
 
 Tab View
 ```````````
@@ -64,7 +64,7 @@ Tab View
 The tab view property manages the number of tab.
 See :doc:`characteristics</widgets/complex/tabview>`.
 
-.. _simple_tabview_property:
+.. _simple_tabview_style_property:
 
 Simple Tab View
 ```````````````````````
@@ -73,7 +73,7 @@ Simple Tab View
 The tab view property manages the number and color of the tab, font color, and thickness and color of the line.
 See :doc:`characteristics</widgets/complex/simpleTabview>`.
 
-.. _collapsible_property:
+.. _collapsible_style_property:
 
 Collapsible
 ````````````````
@@ -172,7 +172,7 @@ Import
 In the import property, you can change or delete composition.
 See :doc:`characteristics</widgets/complex/import>`.
 
-.. _panel_property:
+.. _panel_style_property:
 
 Panel
 ``````````````
@@ -181,7 +181,7 @@ Panel
 The panel property sets the position of the panel, the dim color, the use of the close button, the image, and the layout.
 See :doc:`characteristics</widgets/complex/panel>`.
 
-.. _popup_property:
+.. _popup_style_property:
 
 Pop-Up
 ``````````````

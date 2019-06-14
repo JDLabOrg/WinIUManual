@@ -4,4 +4,4 @@ Tab View
 
 Tab View widget has multiple Tabs .
 
-See :ref:`properties<tabview_property>`.
+See :ref:`style<tabview_style_property>`, :ref:`event<tabview_event_property>` properties.

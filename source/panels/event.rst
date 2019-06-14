@@ -9,20 +9,44 @@ Widget's event properties
 ----------------------------
 Widgets that require events to be enabled can be set with their own properties.
 
+.. _carousel_event_property:
+
 - Carousel
     .. image:: /_static/panels/event/event_01.png
+
+    See :doc:`characteristics</widgets/complex/carousel>`.
+
+.. _collapsible_event_property:
 
 - Collapsible
     .. image:: /_static/panels/event/event_02.png
 
+    See :doc:`characteristics</widgets/complex/collapsible>`.
+
+.. _tabview_event_property:
+
 - Tab view & Simple tab view
     .. image:: /_static/panels/event/event_03.png
+
+    See :doc:`tab view characteristics</widgets/complex/tabview>` and  :doc:`simple tab view characteristics</widgets/complex/simpleTabview>`.
+
+.. _transition_event_property:
 
 - Transition
     .. image:: /_static/panels/event/event_04.png
 
+    See :doc:`characteristics</widgets/complex/transition>`.
+
+.. _panel_event_property:
+
 - Panel 
     .. image:: /_static/panels/event/event_05.png
 
-- Pop-Up
+    See :doc:`characteristics</widgets/complex/panel>`.
+
+.. _popup_event_property:
+
+- Popup
     .. image:: /_static/panels/event/event_06.png
+
+    See :doc:`characteristics</widgets/complex/popup>`.

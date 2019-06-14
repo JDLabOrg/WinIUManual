@@ -4,4 +4,4 @@ Simple Tab View
 
 Simple Tab View widget has more simple structure than Tab View widget.
 
-See :ref:`properties<simple_tabview_property>`.
+See :ref:`style<simple_tabview_style_property>`, :ref:`event<tabview_event_property>` properties.
