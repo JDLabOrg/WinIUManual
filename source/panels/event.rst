@@ -20,3 +20,9 @@ Widgets that require events to be enabled can be set with their own properties.
 
 - Transition
     .. image:: /_static/panels/event/event_04.png
+
+- Panel 
+    .. image:: /_static/panels/event/event_05.png
+
+- Pop-Up
+    .. image:: /_static/panels/event/event_06.png

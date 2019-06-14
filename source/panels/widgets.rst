@@ -171,3 +171,21 @@ Import
 
 In the import property, you can change or delete composition.
 See :doc:`characteristics</widgets/complex/import>`.
+
+.. _panel_property:
+
+Panel
+``````````````
+.. image:: /_static/panels/style/property/020_panel.png
+
+The panel property sets the position of the panel, the dim color, the use of the close button, the image, and the layout.
+See :doc:`characteristics</widgets/complex/panel>`.
+
+.. _popup_property:
+
+Pop-Up
+``````````````
+.. image:: /_static/panels/style/property/021_popup.png
+
+The pop-up property sets the dim color, the use of the close button, the image, and the layout.
+See :doc:`characteristics</widgets/complex/popup>`.
