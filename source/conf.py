@@ -59,7 +59,7 @@ images_config = {
 }
 
 
-from sphinx.util.template import LaTeXRenderer
+from jinja2 import Template
 
 
 # Custom render
@@ -68,19 +68,9 @@ def rst_jinja(app, docname, source):
     """
     Render our pages as a jinja template for fancy templating goodness.
     """
-    # Make sure we're outputting HTML
     src = source[0]
-    if app.builder.format == 'html':
-        rendered = app.builder.templates.render_string(
-            src, app.config.build_context
-        )
-        source[0] = rendered
-    elif app.builder.format == 'latex':
-        # note : latex builder doesn't bind templates
-        rendered = LaTeXRenderer().render_string(
-            src, app.config.build_context
-        )
-        source[0] = rendered
+    template = Template(src)
+    source[0] = template.render(app.config.build_context)
 
 
 def setup(app):
