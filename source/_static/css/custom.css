@@ -16,9 +16,8 @@ kbd {
 }
 
 /* Relocate ads at bottom*/
-.ethical-rtd {
-    bottom: 0;
-    position: absolute;
+.wy-nav-side .ethical-rtd {
+    margin-top: 200px;
 }
 
 /* custom css */
