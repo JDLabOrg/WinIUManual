@@ -13,6 +13,7 @@ Shortcut
 - :kbd:`ctrl` + :kbd:`y` : Redo
 - :kbd:`ctrl` + :kbd:`c` : Copy a widget (or page/ composition) if it is selected
 - :kbd:`ctrl` + :kbd:`p` : Paste
+- :kbd:`ctrl` + :kbd:`d` : Duplicate a widget (Copy & Paste)
 
 ---------------------------------------
 
