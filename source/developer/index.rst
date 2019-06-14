@@ -12,7 +12,7 @@ You can open the developer mode panel via the view menu.
     :group: developer
     :title: ID & Class
 
-            text
+text
 
 - Attribute
 .. thumbnail:: /_static/developer/dev_02.png
@@ -20,7 +20,7 @@ You can open the developer mode panel via the view menu.
     :group: developer
     :title: Attribute
 
-            text
+text
 
 - Inline style code
 .. thumbnail:: /_static/developer/dev_03.png
@@ -28,7 +28,7 @@ You can open the developer mode panel via the view menu.
     :group: developer
     :title: Inline style code
 
-            text
+text
 
 - Comment before element
 .. thumbnail:: /_static/developer/dev_04.png
@@ -36,7 +36,7 @@ You can open the developer mode panel via the view menu.
     :group: developer
     :title: Comment before element
 
-            text
+text
 
 - Comment after element
 .. thumbnail:: /_static/developer/dev_05.png
@@ -44,4 +44,4 @@ You can open the developer mode panel via the view menu.
     :group: developer
     :title: Comment after element
 
-            text
+text
