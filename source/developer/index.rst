@@ -7,41 +7,41 @@ You can open the developer mode panel via the view menu.
 .. image:: /_static/developer/dev_screen.png
 
 - ID & Class
-.. thumbnail:: /_static/setting/dev_01.png
+.. thumbnail:: /_static/developer/dev_01.png
     :width: 100%
     :group: developer
     :title: ID & Class
 
-            text
+text
 
 - Attribute
-.. thumbnail:: /_static/setting/dev_02.png
+.. thumbnail:: /_static/developer/dev_02.png
     :width: 100%
     :group: developer
     :title: Attribute
 
-            text
+text
 
 - Inline style code
-.. thumbnail:: /_static/setting/dev_03.png
+.. thumbnail:: /_static/developer/dev_03.png
     :width: 100%
     :group: developer
     :title: Inline style code
 
-            text
+text
 
 - Comment before element
-.. thumbnail:: /_static/setting/dev_04.png
+.. thumbnail:: /_static/developer/dev_04.png
     :width: 100%
     :group: developer
     :title: Comment before element
 
-            text
+text
 
 - Comment after element
-.. thumbnail:: /_static/setting/dev_05.png
+.. thumbnail:: /_static/developer/dev_05.png
     :width: 100%
     :group: developer
     :title: Comment after element
 
-            text
+text
