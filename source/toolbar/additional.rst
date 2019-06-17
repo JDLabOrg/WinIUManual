@@ -10,7 +10,7 @@ Text
 
     It is a function that can set font size and thickness of title in a predetermined style.
 
-#. Insert LoremIpsum
+#. Insert Dummy text
     .. image:: /_static/toolbar/021_lorem.png
         :height: 22px
 
