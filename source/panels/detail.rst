@@ -1,8 +1,8 @@
 Detail
 =============================
 
-  .. thumbnail:: /_static/panels/detail/detail_new.png
-      :width: 40%
+  .. thumbnail:: /_static/panels/detail/detail_panel.png
+      :width: 100%
       :group: panels
       :title: Detail
 
