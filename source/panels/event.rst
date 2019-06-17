@@ -5,7 +5,7 @@ Event properties allow you to set the interaction of the selected object. Hover 
 
 .. image:: /_static/panels/event/event_new.png
 
-Widget's event properties
+Widget's Property
 ----------------------------
 Widgets that require events to be enabled can be set with their own properties.
 
@@ -39,7 +39,7 @@ Widgets that require events to be enabled can be set with their own properties.
 
 .. _panel_event_property:
 
-- Panel 
+- Panel
     .. image:: /_static/panels/event/event_05.png
 
     See :doc:`characteristics</widgets/complex/panel>`.
