@@ -122,7 +122,7 @@ See :doc:`characteristics</widgets/programming/rangeslide>`.
 
 Button
 ```````````````
-.. image:: /_static/panels/style/property/prop_014png
+.. image:: /_static/panels/style/property/prop_014.png
 
 The button property allows you to set the label of a button.
 See :doc:`characteristics</widgets/programming/button>`.
