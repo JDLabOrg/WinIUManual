@@ -20,28 +20,23 @@ Buttons
 
     * - .. image:: /_static/navigation/project/ic_project_create_page.png
           :height: 44px
-      - Create a page
+      - Create a :doc:`page</sheet/page>`
       - Create a new page.
 
     * - .. image:: /_static/navigation/project/ic_project_create_composition.png
           :height: 44px
-      - Create a composition
+      - Create a :doc:`composition</sheet/composition>`
       - Create a new composition.
 
     * - .. image:: /_static/navigation/project/ic_add_resource.png
           :height: 44px
-      - Add a resource (mage, css, js and more)
+      - Add a resource (image, css, js and more)
       - Lets you import and add resources that you have.
 
     * - .. image:: /_static/navigation/project/ic_project_create_library.png
           :height: 44px
       - Create a library
       - Create a library.
-
-    * - .. image:: /_static/navigation/project/ic_add_reference.png
-          :height: 44px
-      - Add a reference
-      - Add a reference to the project.
 
     * - .. image:: /_static/navigation/structure/ic_trash_new.png
           :height: 44px
