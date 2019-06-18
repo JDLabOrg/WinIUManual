@@ -13,7 +13,7 @@ Default Buttons
     * - .. image:: /_static/toolbar/001_saveAll.png
           :height: 44px
       - Save all
-      - Saves all the pages of the current project you are working on.
+      - Save all the pages of the current project you are working on.
 
     * - .. image:: /_static/toolbar/002_open_new.png
           :height: 44px
@@ -21,13 +21,13 @@ Default Buttons
       - Import projects or files in addition to the project you are working on.
 
     * - |undo|  |redo|
-      - Undo&Redo
+      - Undo & Redo
       - Cancel or revert the progress.
 
     * - .. image:: /_static/toolbar/005_build.png
           :height: 66px
       - Build
-      - Creates an html / css / js file based on the elements in the current project. Build Before you create a build, you must save the project locally.
+      - Create an html / css / js file based on the elements in the current project. Build Before you create a build, you must save the project locally.
 
     * - .. image:: /_static/toolbar/006_html.png
           :height: 44px
@@ -47,7 +47,7 @@ Default Buttons
     * - .. image:: /_static/toolbar/009_img.png
           :height: 44px
       - Image
-      - Insert Image allows you to insert the desired image in various ways. Press the Fit widget size to image area button to automatically change the widget size to match the imported image size.
+      - Insert *Image* allows you to insert the desired image in various ways. Press the Fit widget size to image area button to automatically change the widget size to match the imported image size.
 
     * - .. image:: /_static/toolbar/010_text.png
           :height: 44px
@@ -61,7 +61,7 @@ Default Buttons
 
     * - .. image:: /_static/toolbar/012_xywh.png
           :height: 55px
-      - Set a Position and Size
+      - Set a *Position* and *Size*
       - This property allows you to set the size and position of the widget. It can be set in units of pixel (px) and percentage (%).
 
     * - |align-x| |align-y|
@@ -70,7 +70,7 @@ Default Buttons
 
     * - |display| |no-display|
       - Display
-      - This property is used to show or hide the selected widget.
+      - This property is used to *show* or *hide* the selected widget.
 
     * - .. image:: /_static/toolbar/017_paint.png
           :height: 44px
@@ -85,12 +85,12 @@ Default Buttons
     * - .. image:: /_static/toolbar/019_size.png
           :height: 44px
       - Zoom
-      - This Property zooms in and out of the canvas.
+      - This property zooms in and out of the canvas.
 
     * - .. image:: /_static/toolbar/023_tracing.png
           :height: 66px
       - Tracing Screen
-      - Tracing Screen is a function that allows you to insert the desired image into the work area.
+      - *Tracing Screen* is a function that allows you to insert the desired image into the work area.
 
 .. Image references
 .. |align-x| image:: /_static/toolbar/013_align_x.png
