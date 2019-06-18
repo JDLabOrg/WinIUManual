@@ -45,7 +45,7 @@ Build is a menu for setting options such as path, resource path, port, etc. to b
 - Resource prefix - Prefix is inserted to all resource's link : `src="/prefix/original/path/image.png"`
 - Link prefix - Prefix is inserted to the href of page link (relative link) : `href="/prefix/original/pages/index.html"`
 
-- Environment Variables
+- Environment Variables in the *build path* and *resource path*
     - **$CurrentFolder** : The parent directory of a project directory that contains the current project file(.webproj).
     - **$AppName** : The project name.
     - **$HomeFolder** : User home directory.
