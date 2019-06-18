@@ -11,7 +11,7 @@ Type
 Page Type
 ``````````````````
 
-.. image:: /_static/panels/link/page_type.png
+.. image:: /_static/panels/link/type_01.png
 
 The page type sets the location of the page to which you want to connect and the corresponding widget.
 
@@ -19,20 +19,20 @@ The page type sets the location of the page to which you want to connect and the
 URL Type
 ``````````````````
 
-.. image:: /_static/panels/link/url_type.png
+.. image:: /_static/panels/link/type_02.png
 
 URL type sets the page to connect to using url.
 
 Panel Type
 ``````````````````
 
-.. image:: /_static/panels/link/panel_type.png
+.. image:: /_static/panels/link/type_03.png
 
 For panel type, select the panel in the list to set the link type.
 
 Pop-Up Type
 ``````````````````
 
-.. image:: /_static/panels/link/popup_type.png
+.. image:: /_static/panels/link/type_04.png
 
 For pop-up type, select the pop-up in the list to set the link type.

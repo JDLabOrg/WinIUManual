@@ -3,7 +3,7 @@ Event
 
 Event properties allow you to set the interaction of the selected object. Hover and scroll are the basic interactions provided by the editor, and advanced settings are available through the advanced menu. However, only one event can be set for one object.
 
-.. image:: /_static/panels/event/event_new.png
+.. image:: /_static/panels/event/event.png
 
 Widget's Property
 ----------------------------
@@ -14,7 +14,7 @@ Widgets that require events to be enabled can be set with their own properties.
 Carousel
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /_static/panels/event/event_01.png
+.. image:: /_static/panels/event/event_01_new.png
 
 See :doc:`characteristics</widgets/complex/carousel>`.
 
@@ -23,7 +23,7 @@ See :doc:`characteristics</widgets/complex/carousel>`.
 Collapsible
 ^^^^^^^^^^^^^^^^
 
-.. image:: /_static/panels/event/event_02.png
+.. image:: /_static/panels/event/event_02_new.png
 
 See :doc:`characteristics</widgets/complex/collapsible>`.
 
@@ -32,7 +32,7 @@ See :doc:`characteristics</widgets/complex/collapsible>`.
 Tab view & Simple tab view
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /_static/panels/event/event_03.png
+.. image:: /_static/panels/event/event_03_new.png
 
 See :doc:`tab view characteristics</widgets/complex/tabview>` and  :doc:`simple tab view characteristics</widgets/complex/simpleTabview>`.
 
@@ -41,7 +41,7 @@ See :doc:`tab view characteristics</widgets/complex/tabview>` and  :doc:`simple 
 Transition
 ^^^^^^^^^^^^^^^^
 
-.. image:: /_static/panels/event/event_04.png
+.. image:: /_static/panels/event/event_04_new.png
 
 See :doc:`characteristics</widgets/complex/transition>`.
 
@@ -50,7 +50,7 @@ See :doc:`characteristics</widgets/complex/transition>`.
 Panel
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: /_static/panels/event/event_05.png
+.. image:: /_static/panels/event/event_05_new.png
 
 See :doc:`characteristics</widgets/complex/panel>`.
 
@@ -59,6 +59,6 @@ See :doc:`characteristics</widgets/complex/panel>`.
 Popup
 ^^^^^^^^^^^^^^
 
-.. image:: /_static/panels/event/event_06.png
+.. image:: /_static/panels/event/event_06_new.png
 
 See :doc:`characteristics</widgets/complex/popup>`.

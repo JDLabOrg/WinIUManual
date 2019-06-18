@@ -4,7 +4,7 @@ Developer View
 Developer view is a panel where you can view and modify the code applied to the design or modify the code of the project.
 You can open the developer mode panel via the view menu.
 
-.. image:: /_static/developer/dev_new.png
+.. image:: /_static/developer/dev_screen.png
 
 - ID & Class
 
