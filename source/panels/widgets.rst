@@ -23,7 +23,7 @@ See :doc:`characteristics</widgets/basic/iconButton>`.
 
 Carousel
 `````````````````````````````
-.. image:: /_static/panels/style/property/prop_004.png
+.. image:: /_static/panels/style/property/prop_004_new.png
 
 The carousel property allows you to modify the quantity of content, shape, location, color, and so on.
 See :doc:`characteristics</widgets/complex/carousel>`.
