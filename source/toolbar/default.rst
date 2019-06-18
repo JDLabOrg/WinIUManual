@@ -2,7 +2,7 @@ Default Buttons
 -----------------
 
 .. list-table::
-    :class: prevent-responsive-table
+    :class: prevent-responsive-table longtable
     :widths: 10 10 30
     :header-rows: 1
 
