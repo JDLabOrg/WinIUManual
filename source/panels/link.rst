@@ -1,7 +1,7 @@
 Link
 ========================
 
-It is a function to set a hyperlink to the URL or pop-up that enters the selected widget.
+It is a function to set a hyperlink to the URL, page in the project, popup or panel that enters the selected widget.
 
 .. image:: /_static/panels/link/link.png
 
@@ -13,7 +13,8 @@ Page Type
 
 .. image:: /_static/panels/link/page_type.png
 
-The page type sets the location of the page to which you want to connect and the corresponding widget.
+Create a relative URL of the selected page.
+If the page is same to the current page and the widget is selected, you can use the scroll animation (smoothly move to the widget).
 
 
 URL Type
@@ -28,11 +29,11 @@ Panel Type
 
 .. image:: /_static/panels/link/panel_type.png
 
-For panel type, select the panel in the list to set the link type.
+For panel type, select a panel in the list to set the link type.
 
-Pop-Up Type
+Popup Type
 ``````````````````
 
 .. image:: /_static/panels/link/popup_type.png
 
-For pop-up type, select the pop-up in the list to set the link type.
+For popup type, select a popup in the list to set the link type.
