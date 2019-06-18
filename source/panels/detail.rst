@@ -1,7 +1,7 @@
 Detail
 =============================
 
-  .. thumbnail:: /_static/panels/detail/detail_panel.png
+  .. thumbnail:: /_static/panels/detail/detail.png
       :width: 40%
       :group: panels
       :title: Detail

@@ -5,7 +5,7 @@ Widget's Property
 
 Static Image
 ```````````````
-.. image:: /_static/panels/style/property/001_static.png
+.. image:: /_static/panels/style/property/prop_001.png
 
 The static image property allows you to retrieve or insert the image you have through a URL.
 See :doc:`characteristics</widgets/basic/staticImage>`.
@@ -14,7 +14,7 @@ See :doc:`characteristics</widgets/basic/staticImage>`.
 
 Image and Text
 ``````````````````
-.. image:: /_static/panels/style/property/002_imgntext.png
+.. image:: /_static/panels/style/property/prop_002.png
 
 The image and text properties allow you to modify the alignment and spacing of images and text, insert and modify text and images.
 See :doc:`characteristics</widgets/basic/iconButton>`.
@@ -23,7 +23,7 @@ See :doc:`characteristics</widgets/basic/iconButton>`.
 
 Carousel
 `````````````````````````````
-.. image:: /_static/panels/style/property/004_carousel.png
+.. image:: /_static/panels/style/property/prop_004_new.png
 
 The carousel property allows you to modify the quantity of content, shape, location, color, and so on.
 See :doc:`characteristics</widgets/complex/carousel>`.
@@ -32,7 +32,7 @@ See :doc:`characteristics</widgets/complex/carousel>`.
 
 Video
 ```````````````
-.. image:: /_static/panels/style/property/005_video.png
+.. image:: /_static/panels/style/property/prop_005.png
 
 Video properties allow you to insert resources or modify thumbnails.
 See :doc:`characteristics</widgets/complex/videoClip>`.
@@ -41,7 +41,7 @@ See :doc:`characteristics</widgets/complex/videoClip>`.
 
 Youtube and Vimeo
 ```````````````````````
-.. image:: /_static/panels/style/property/006_youtube.png
+.. image:: /_static/panels/style/property/prop_006.png
 
 The youtube/Viemo property allows you to enter the url of the video you want to insert immediately.
 See :doc:`characteristics</widgets/complex/webMovie>`.
@@ -50,7 +50,7 @@ See :doc:`characteristics</widgets/complex/webMovie>`.
 
 Progress Bar
 ``````````````
-.. image:: /_static/panels/style/property/007_progress.png
+.. image:: /_static/panels/style/property/prop_007.png
 
 The process bar property manages colors, basic progress state, and appearance.
 See :doc:`characteristics</widgets/complex/progressbar>`.
@@ -59,7 +59,7 @@ See :doc:`characteristics</widgets/complex/progressbar>`.
 
 Tab View
 ```````````
-.. image:: /_static/panels/style/property/008_tab.png
+.. image:: /_static/panels/style/property/prop_008.png
 
 The tab view property manages the number of tab.
 See :doc:`characteristics</widgets/complex/tabview>`.
@@ -68,7 +68,7 @@ See :doc:`characteristics</widgets/complex/tabview>`.
 
 Simple Tab View
 ```````````````````````
-.. image:: /_static/panels/style/property/009_simple.png
+.. image:: /_static/panels/style/property/prop_009.png
 
 The tab view property manages the number and color of the tab, font color, and thickness and color of the line.
 See :doc:`characteristics</widgets/complex/simpleTabview>`.
@@ -77,7 +77,7 @@ See :doc:`characteristics</widgets/complex/simpleTabview>`.
 
 Collapsible
 ````````````````
-.. image:: /_static/panels/style/property/010_collapsible.png
+.. image:: /_static/panels/style/property/prop_010.png
 
 The collapsible property manages header type and content orientation.
 See :doc:`characteristics</widgets/complex/collapsible>`.
@@ -86,7 +86,7 @@ See :doc:`characteristics</widgets/complex/collapsible>`.
 
 SVG
 ``````````````
-.. image:: /_static/panels/style/property/011_svg.png
+.. image:: /_static/panels/style/property/prop_011.png
 
 The svg property allows you to set the role or change the color of the inserted graphic.
 See :doc:`characteristics</widgets/complex/svg>`.
@@ -95,7 +95,7 @@ See :doc:`characteristics</widgets/complex/svg>`.
 
 Table
 ``````````````````````
-.. image:: /_static/panels/style/property/003_table.png
+.. image:: /_static/panels/style/property/prop_003.png
 
 The table property allows quick creation through the input of the row and column.
 See :doc:`characteristics</widgets/complex/table>`.
@@ -104,7 +104,7 @@ See :doc:`characteristics</widgets/complex/table>`.
 
 Slider
 `````````````
-.. image:: /_static/panels/style/property/012_slider.png
+.. image:: /_static/panels/style/property/prop_012.png
 
 The slider property allows you to set the value of the slider and the color of the active state.
 See :doc:`characteristics</widgets/programming/slide>`.
@@ -113,7 +113,7 @@ See :doc:`characteristics</widgets/programming/slide>`.
 
 Range Slider
 ````````````````````````
-.. image:: /_static/panels/style/property/013_range.png
+.. image:: /_static/panels/style/property/prop_013.png
 
 The range slider property allows you to set the value of the slider and the color of the active state.
 See :doc:`characteristics</widgets/programming/rangeslide>`.
@@ -122,7 +122,7 @@ See :doc:`characteristics</widgets/programming/rangeslide>`.
 
 Button
 ```````````````
-.. image:: /_static/panels/style/property/014_btn.png
+.. image:: /_static/panels/style/property/prop_014png
 
 The button property allows you to set the label of a button.
 See :doc:`characteristics</widgets/programming/button>`.
@@ -131,7 +131,7 @@ See :doc:`characteristics</widgets/programming/button>`.
 
 Input Text
 ````````````
-.. image:: /_static/panels/style/property/015_input_txt.png
+.. image:: /_static/panels/style/property/prop_015.png
 
 The input text property allows you to modify the type, text, and placeholder.
 See :doc:`characteristics</widgets/programming/inputText>`.
@@ -140,7 +140,7 @@ See :doc:`characteristics</widgets/programming/inputText>`.
 
 Input Paragraph
 `````````````````
-.. image:: /_static/panels/style/property/016_input_p.png
+.. image:: /_static/panels/style/property/prop_016.png
 
 The input paragraph property allows you to modify the placeholder and paragraph text.
 See :doc:`characteristics</widgets/programming/inputParagraphText>`.
@@ -149,7 +149,7 @@ See :doc:`characteristics</widgets/programming/inputParagraphText>`.
 
 Label
 `````````````
-.. image:: /_static/panels/style/property/017_label.png
+.. image:: /_static/panels/style/property/prop_017.png
 
 The label property allows you to modify the text.
 See :doc:`characteristics</widgets/programming/label>`.
@@ -158,7 +158,7 @@ See :doc:`characteristics</widgets/programming/label>`.
 
 Select
 ``````````````
-.. image:: /_static/panels/style/property/018_select.png
+.. image:: /_static/panels/style/property/prop_018.png
 
 In the select property, you can add or delete values and modify the name of the values.
 See :doc:`characteristics</widgets/programming/select>`.
@@ -167,7 +167,7 @@ See :doc:`characteristics</widgets/programming/select>`.
 
 Import
 ``````````````
-.. image:: /_static/panels/style/property/019_import.png
+.. image:: /_static/panels/style/property/prop_019.png
 
 In the import property, you can change or delete :doc:`composition</sheet/composition>`.
 See :doc:`characteristics</widgets/complex/import>`.
@@ -176,7 +176,7 @@ See :doc:`characteristics</widgets/complex/import>`.
 
 Panel
 ``````````````
-.. image:: /_static/panels/style/property/020_panel.png
+.. image:: /_static/panels/style/property/prop_020.png
 
 The panel property sets the position of the panel, the dim color, the use of the close button, the image, and the layout.
 See :doc:`characteristics</widgets/complex/panel>`.
@@ -185,7 +185,7 @@ See :doc:`characteristics</widgets/complex/panel>`.
 
 Popup
 ``````````````
-.. image:: /_static/panels/style/property/021_popup.png
+.. image:: /_static/panels/style/property/prop_021.png
 
 The popup property sets the dim color, the use of the close button, the image, and the layout.
 See :doc:`characteristics</widgets/complex/popup>`.

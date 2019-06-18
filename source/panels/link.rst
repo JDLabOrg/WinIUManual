@@ -11,7 +11,7 @@ Type
 Page Type
 ``````````````````
 
-.. image:: /_static/panels/link/page_type.png
+.. image:: /_static/panels/link/type_01.png
 
 Create a relative URL of the selected page.
 If the page is same to the current page and the widget is selected, you can use the scroll animation (smoothly move to the widget).
@@ -20,20 +20,20 @@ If the page is same to the current page and the widget is selected, you can use 
 URL Type
 ``````````````````
 
-.. image:: /_static/panels/link/url_type.png
+.. image:: /_static/panels/link/type_02.png
 
 URL type sets the page to connect to using url.
 
 Panel Type
 ``````````````````
 
-.. image:: /_static/panels/link/panel_type.png
+.. image:: /_static/panels/link/type_03.png
 
 For panel type, select a panel in the list to set the link type.
 
 Popup Type
 ``````````````````
 
-.. image:: /_static/panels/link/popup_type.png
+.. image:: /_static/panels/link/type_04.png
 
 For popup type, select a popup in the list to set the link type.

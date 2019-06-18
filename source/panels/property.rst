@@ -19,7 +19,7 @@ Set the font type, size, color, thickness, alignment and kerning.
 Image
 ```````````````````````
 
-.. image:: /_static/panels/style/img.png
+.. image:: /_static/panels/style/img_new.png
 
 Attache an image to the selected widget or sets the alignment of the inserted image.
 

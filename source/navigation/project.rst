@@ -4,7 +4,7 @@ Project
 A project panel is an area that checks the hierarchy of the generated project and manages detail pages.
 It consists of functions such as page creation, composition creation, resource addition, library creation and deletion.
 
-.. image:: /_static/navigation/project/project_panel.png
+.. image:: /_static/navigation/project/project.png
 
 Buttons
 --------------
