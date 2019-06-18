@@ -21,18 +21,18 @@ Buttons
 
     * - .. image:: /_static/navigation/structure/ic_structure_add_new.png
           :height: 44px
-      - Add an widget
-      - Shows a list of panel and pop-up additions.
+      - Add a popup or panel
+      - Show a list of panel and pop-up additions.
 
     * - .. image:: /_static/navigation/structure/ic_add_panel.png
           :height: 44px
-      - Add Panel (Add an widget)
-      - Adds a panel to the selected structure.
+      - Add a Panel
+      - Add a panel to the panel group(panels).
 
     * - .. image:: /_static/navigation/structure/ic_add_popup.png
           :height: 44px
-      - Add Pop-Up (Add an widget)
-      - Adds a pop-up to the selected structure.
+      - Add a Popup
+      - Add a popup to the popup group(popups).
 
     * - .. image:: /_static/navigation/structure/ic_structure_layout_01.png
           :height: 44px
@@ -57,4 +57,4 @@ Buttons
     * - .. image:: /_static/navigation/structure/ic_trash_new.png
           :height: 44px
       - Delete widget(s)
-      - Deletes the selected widget.
+      - Delete the selected widget.

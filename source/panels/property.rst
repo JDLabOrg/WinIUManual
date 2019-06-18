@@ -5,7 +5,9 @@ Layout
 ```````````````````````
 .. image:: /_static/panels/style/layout.png
 
-Sets the location and size of the selected widget.
+Set the location and size of the selected widget.
+Also, you can change padding, radius and transform rotate properties.
+You can choose first position in absolute, relative and fixed.
 
 Text
 ```````````````````````
@@ -19,32 +21,33 @@ Image
 
 .. image:: /_static/panels/style/img.png
 
-Attaches an image to the selected widget or sets the alignment of the inserted image.
+Attache an image to the selected widget or sets the alignment of the inserted image.
 
 Fill
 ```````````````````````
 
 .. image:: /_static/panels/style/fill.png
 
-Changes the color of the selected widget.
+Change the color and opacity of the selected widget.
 
 Gradient
 ```````````````````````
 
 .. image:: /_static/panels/style/gradient.png
 
-Sets the color of the selected widget to the gradient.
+Set the gradient color of the selected widget. You can change a range of colors and direction.
+You can clear all state by clicking *trash* button.
 
 Border
 ```````````````````````
 
 .. image:: /_static/panels/style/border.png
 
-Changes the line color of the selected widget.
+Change the border-color and border-width of the selected widget.
 
 Shadow
 ```````````````````````
 
 .. image:: /_static/panels/style/shadow.png
 
-Sets the transparency and position of the shadow of the selected widget.
+Set the shadow of the selected widget.

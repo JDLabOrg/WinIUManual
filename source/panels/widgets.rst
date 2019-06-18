@@ -169,7 +169,7 @@ Import
 ``````````````
 .. image:: /_static/panels/style/property/019_import.png
 
-In the import property, you can change or delete composition.
+In the import property, you can change or delete :doc:`composition</sheet/composition>`.
 See :doc:`characteristics</widgets/complex/import>`.
 
 .. _panel_style_property:
@@ -183,9 +183,9 @@ See :doc:`characteristics</widgets/complex/panel>`.
 
 .. _popup_style_property:
 
-Pop-Up
+Popup
 ``````````````
 .. image:: /_static/panels/style/property/021_popup.png
 
-The pop-up property sets the dim color, the use of the close button, the image, and the layout.
+The popup property sets the dim color, the use of the close button, the image, and the layout.
 See :doc:`characteristics</widgets/complex/popup>`.
