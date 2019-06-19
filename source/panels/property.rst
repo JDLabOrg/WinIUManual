@@ -3,7 +3,7 @@ Property
 
 Layout
 ```````````````````````
-.. image:: /_static/panels/style/layout.png
+.. image:: /_static/panels/style/layout_new.png
 
 Set the location and size of the selected widget.
 Also, you can change padding, radius and transform rotate properties.
