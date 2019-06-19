@@ -9,7 +9,7 @@ You can open the developer mode panel via the view menu.
 You can add code in the left panel and see the preview code in the right panel.
 
 ID & Class
-``````````````````````
+-----------------------
 
 .. thumbnail:: /_static/developer/dev_01.png
     :width: 100%
@@ -27,7 +27,7 @@ You can change a Html ID and add classes.
     <div class="class1 class2 class3"></div>
 
 Attribute
-``````````````````
+-----------------------
 
 .. thumbnail:: /_static/developer/dev_02.png
     :width: 100%
@@ -44,7 +44,7 @@ Attribute
 
 
 Inline style code
-``````````````````````````
+-----------------------
 
 .. thumbnail:: /_static/developer/dev_03.png
     :width: 100%
@@ -64,7 +64,7 @@ Inline style code
 
 
 Comment before element
-```````````````````````````````
+-----------------------
 
 .. thumbnail:: /_static/developer/dev_04.png
     :width: 100%
@@ -84,7 +84,7 @@ Comment before element
 
 
 Comment after element
-```````````````````````````````
+-----------------------
 
 .. thumbnail:: /_static/developer/dev_05.png
     :width: 100%
@@ -102,7 +102,11 @@ Comment after element
     <div></div>
     <!-- The end of this element-->
 
-HTML code
+----
+
+Widgets
+-----------------------
+HTML
 ```````````````````````````````
 
 .. thumbnail:: /_static/developer/dev_html_new.png
@@ -110,10 +114,14 @@ HTML code
     :group: developer
     :title: HTML code
 
-SVG code
+You can change html code directly.
+
+SVG
 ```````````````````````````````
 
 .. thumbnail:: /_static/developer/dev_svg_new.png
     :width: 100%
     :group: developer
     :title: SVG code
+
+You can change svg code directly.
