@@ -6,3 +6,5 @@ Google Map widget represents google map element. You can input Map location wher
 
 #. In Editor Mode, Google Map widget offers maximum preview 600 px x 600 px size.
 #. South Korea’s map is not available Color Theme feature.
+
+See :ref:`detail<google_map_detail>` properties.

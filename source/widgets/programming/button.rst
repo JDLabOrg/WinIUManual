@@ -4,4 +4,4 @@ Button
 
 Button widget displays button which is generated to <input> tag (type:default / reset / submit).
 
-See :ref:`properties<button_property>`.
+See :ref:`style<button_property>`, :ref:`detail<button_detail>` properties.

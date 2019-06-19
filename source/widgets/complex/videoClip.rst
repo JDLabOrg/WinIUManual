@@ -4,4 +4,4 @@ Video Clip
 
 Video Clip widget supports MP4. You can input videos from Resource panel.
 
-See :ref:`properties<video_property>`.
+See :ref:`style<video_property>`, :ref:`detail<video_detail>` properties.

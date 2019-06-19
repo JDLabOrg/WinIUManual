@@ -4,4 +4,4 @@ Input Paragraph Text
 
 Input Paragraph Text widget is a textfield which is generated to <textarea> tag.
 
-See :ref:`properties<input_paragraph_property>`.
+See :ref:`style<input_paragraph_property>`, :ref:`detail<input_paragraph_detail>` properties.

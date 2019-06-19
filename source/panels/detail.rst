@@ -12,10 +12,12 @@ On the first column, if the circle is orange, the value is in the current media 
 Otherwise, the value is from other media queries or default value (cascading value).
 You can clear current value by clicking the circle.
 
+----
+
 .. _text_detail:
 
 Text
-```````````````````````
+------
 .. image:: /_static/panels/detail/prop/002_text_ellipsis.png
 
 - Type : You can change a text tag in *<p>, <h1>* and *<h2>*
@@ -26,7 +28,7 @@ See :doc:`characteristics</widgets/basic/text>`.
 .. _static_image_detail:
 
 Static image
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/003_static_alt.png
 
 - Alternative text : *alt* attribute in *<img>*
@@ -36,7 +38,7 @@ See :doc:`characteristics</widgets/basic/staticImage>`.
 .. _icon_button_detail:
 
 Image and text
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/004_imgt_margin.png
 
 - Image
@@ -45,117 +47,228 @@ Image and text
 
 See :doc:`characteristics</widgets/basic/iconButton>`.
 
+.. _google_map_detail:
+
 Google map
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/005_google.png
 
-text
+- Map
+    - Google map API key : You can get from google map. It should be set in project setting.
+    - Longitude : The longitude of your location
+    - Latitude : The latitude of your location
+- Control
+    - Zoom level : 1~18
+    - Zoom control : Show a zoom control or not
+    - Street Control : Show a street control or not
+- Marker
+    - Use : Show a marker or not
+    - Image : You can change a marker image.
+    - Title : The popup message when clicking a marker
+- Map style
+    - Color theme
+
+See :doc:`characteristics</widgets/complex/googleMap>`.
+
+.. _tweet_detail:
 
 Tweet
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/006_twt.png
 
-text
+- Tweet message : The text message
+- URL to tweet
+- Button size : Medium or Large
+
+See :doc:`characteristics</widgets/complex/tweet>`.
+
+.. _facebook_detail:
 
 Facebook like
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/007_fb.png
 
-text
+- Like URL
+- Color scheme : Light and Dark
+- Show friend's face
+
+See :doc:`characteristics</widgets/complex/facebook>`.
+
+.. _table_detail:
 
 Table
-```````````````````````
+-----------------------
+Table Row
+``````````````
+
 .. image:: /_static/panels/detail/prop/008_table_row.png
 
-text
+- As a header : Use *<th>* tag instead of *<tr>*
+- Row span
+- Column span
+
+See :doc:`characteristics</widgets/complex/table>`.
+
+.. _carousel_detail:
 
 Carousel
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/009_car_position.png
 
-text
+- Arrow
+    - X position : X position from side
+    - Y position : Y position from top
+
+See :doc:`characteristics</widgets/complex/carousel>`.
+
+.. _video_detail:
 
 Video
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/010_video_attrib.png
 
-text
+- Video
+    - Alternative text
+- Attribute
+    - Loop
+    - Muted
+    - Autoplay : Autoplay is only work when muted.
+
+See :doc:`characteristics</widgets/complex/videoClip>`.
+
+.. _webmovie_detail:
 
 Vimeo or Youtube
-```````````````````````
+-----------------------
 .. image:: /_static/panels/detail/prop/011_vimeo_auto.png
 
-text
+- Autoplay
+- Loop
 
-Slider inner bar
-```````````````````````
+See :doc:`characteristics</widgets/complex/webMovie>`.
+
+.. _slide_detail:
+
+Slide / Range Slide
+-----------------------
+Slider Inner Bar
+````````````````````````
+
 .. image:: /_static/panels/detail/prop/012_slider_bar.png
 
-text
+- Inner bar image : You can put an image instead of color.
 
-Slider text
-```````````````````````
+Slider Text
+````````````````
+
 .. image:: /_static/panels/detail/prop/012_slider_text.png
 
-text
+- Type : Same as :ref:`Text<text_detail>`
+
+See :doc:`slide</widgets/programming/slide>`, :doc:`range slide</widgets/programming/rangeslide>` characteristics.
+
+.. _switch_detail:
 
 Switch
-```````````````````````
+-----------
 .. image:: /_static/panels/detail/prop/013_switch.png
 
-text
+- Checked : Status after build
+
+See :doc:`characteristics</widgets/programming/switch>`.
+
+.. _flip_switch_detail:
 
 Flip switch
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/014_flip.png
 
-text
+- Checked : Status after build
 
+See :doc:`characteristics</widgets/programming/flipswitch>`.
+
+.. _label_detail:
 
 Label
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/001_label_for.png
 
-text
+- For : Html id of a connected widget
+
+See :doc:`characteristics</widgets/programming/label>`.
+
+.. _button_detail:
 
 Button
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/015_btn_type.png
 
-text
+- Type : default, reset and submit
+
+See :doc:`characteristics</widgets/programming/button>`.
+
+.. _input_text_detail:
 
 Input text
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/016_input_txt.png
 
-text
+- Max : Maximum of type
+- Min : Minimum of type
+- Max length
+
+See :doc:`characteristics</widgets/programming/inputText>`.
+
+.. _input_paragraph_detail:
 
 Input paragraph
-```````````````````````
+--------------------------
 .. image:: /_static/panels/detail/prop/017_input_p.png
 
-text
+- Max length
+
+See :doc:`characteristics</widgets/programming/inputParagraphText>`.
+
+.. _checkbox_detail:
 
 Checkbox
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/018_checkbox.png
 
-text
+- Checked : Status after build
+
+See :doc:`characteristics</widgets/programming/checkbox>`.
+
+.. _radio_button_detail:
 
 Radio button
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/019_radio_btn.png
 
-text
+- Checked : Status after build
+- Group : Group name of a radio button
+
+See :doc:`characteristics</widgets/programming/radiobutton>`.
+
+.. _form_detail:
 
 Form
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/020_form.png
 
-text
+- Action
+- Method
+- Input hiddens
+
+See :doc:`characteristics</widgets/programming/form>`.
+
+.. _collection_detail:
 
 Collection
-```````````````````````
+-------------
 .. image:: /_static/panels/detail/prop/021_collection.png
 
-text
+- Item count
+- Composition
+
+See :doc:`characteristics</widgets/programming/collection>`.

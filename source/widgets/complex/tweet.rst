@@ -4,3 +4,4 @@ Tweet Share Button
 
 With Tweet Share Button widget, you can add Share to Tweeter Button in your project. (No Resize)
 
+See :ref:`detail<tweet_detail>` properties.

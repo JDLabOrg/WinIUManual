@@ -4,4 +4,4 @@ Table
 
 Table widget can add simple table on canvas.
 
-See :ref:`properties<table_property>`.
+See :ref:`style<table_property>`, :ref:`detail<table_detail>` properties.

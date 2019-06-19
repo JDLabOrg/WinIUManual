@@ -5,6 +5,8 @@ Style property allows you to set the layout / text / fill / border / shadow / tr
 
 .. image:: /_static/panels/style/style.png
 
+----
+
 .. toctree::
     property.rst
     widgets.rst
