@@ -272,3 +272,9 @@ Collection
 - Composition
 
 See :doc:`characteristics</widgets/programming/collection>`.
+
+Section
+-------------
+.. image:: /_static/panels/detail/prop/022_section.png
+
+- text
