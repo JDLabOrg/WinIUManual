@@ -1,5 +1,6 @@
 Page
 ============
+.. image:: /_static/navigation/project/ic_project_create_page.png
 
 Page is a mapping to a single html file.
 It contains designed widgets and meta information.
