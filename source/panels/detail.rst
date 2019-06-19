@@ -14,6 +14,14 @@ You can clear current value by clicking the circle.
 
 ----
 
+.. _section_detail:
+
+Section
+-------------
+.. image:: /_static/panels/detail/prop/022_section.png
+
+- Set section full-height : Section height is same as the height of web browser (js).
+
 .. _text_detail:
 
 Text
@@ -273,8 +281,4 @@ Collection
 
 See :doc:`characteristics</widgets/programming/collection>`.
 
-Section
--------------
-.. image:: /_static/panels/detail/prop/022_section.png
 
-- text
