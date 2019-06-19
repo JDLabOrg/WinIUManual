@@ -1,44 +1,53 @@
 Detail
 =============================
-
-  .. thumbnail:: /_static/panels/detail/detail.png
-      :width: 40%
-      :group: panels
-      :title: Detail
-
 Detail property provides functionality for fine-tuning widgets.
+
+.. thumbnail:: /_static/panels/detail/detail.png
+  :width: 40%
+  :group: panels
+  :title: Detail
+
 The circular UI in front is a UI that tells the property to apply the media query.
 On the first column, if the circle is orange, the value is in the current media query.
 Otherwise, the value is from other media queries or default value (cascading value).
 You can clear current value by clicking the circle.
 
-Label
-```````````````````````
-.. image:: /_static/panels/detail/prop/001_label_for.png
-
-text
+.. _text_detail:
 
 Text
 ```````````````````````
 .. image:: /_static/panels/detail/prop/002_text_ellipsis.png
 
-text
+- Type : You can change a text tag in *<p>, <h1>* and *<h2>*
+- Ellipsis : You can add ellipsis to a selected line.
+
+See :doc:`characteristics</widgets/basic/text>`.
+
+.. _static_image_detail:
 
 Static image
 ```````````````````````
 .. image:: /_static/panels/detail/prop/003_static_alt.png
 
-text
+- Alternative text : *alt* attribute in *<img>*
+
+See :doc:`characteristics</widgets/basic/staticImage>`.
+
+.. _icon_button_detail:
 
 Image and text
 ```````````````````````
 .. image:: /_static/panels/detail/prop/004_imgt_margin.png
 
-text
+- Image
+    - Top margin
+    - Bottom margin
+
+See :doc:`characteristics</widgets/basic/iconButton>`.
 
 Google map
 ```````````````````````
-.. image:: /_static/panels/detail/prop/005_goole.png
+.. image:: /_static/panels/detail/prop/005_google.png
 
 text
 
@@ -99,6 +108,13 @@ text
 Flip switch
 ```````````````````````
 .. image:: /_static/panels/detail/prop/014_flip.png
+
+text
+
+
+Label
+```````````````````````
+.. image:: /_static/panels/detail/prop/001_label_for.png
 
 text
 

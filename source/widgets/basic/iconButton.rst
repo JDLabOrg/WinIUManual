@@ -4,4 +4,4 @@ Image and Text
 
 Image and Text widget contains Text Content and Image, aligned Vertical-Center automatically.
 
-See :ref:`properties<icon_button_property>`.
+See :ref:`style<icon_button_property>`, :ref:`detail<icon_button_detail>` properties.
