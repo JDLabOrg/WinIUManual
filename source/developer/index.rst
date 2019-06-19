@@ -101,3 +101,19 @@ Comment after element
     <!-- Result -->
     <div></div>
     <!-- The end of this element-->
+
+HTML code
+```````````````````````````````
+
+.. thumbnail:: /_static/developer/dev_html.png
+    :width: 100%
+    :group: developer
+    :title: HTML code
+
+SVG code
+```````````````````````````````
+
+.. thumbnail:: /_static/developer/dev_svg.png
+    :width: 100%
+    :group: developer
+    :title: SVG code
