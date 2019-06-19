@@ -105,7 +105,7 @@ Comment after element
 HTML code
 ```````````````````````````````
 
-.. thumbnail:: /_static/developer/dev_html.png
+.. thumbnail:: /_static/developer/dev_html_new.png
     :width: 100%
     :group: developer
     :title: HTML code
@@ -113,7 +113,7 @@ HTML code
 SVG code
 ```````````````````````````````
 
-.. thumbnail:: /_static/developer/dev_svg.png
+.. thumbnail:: /_static/developer/dev_svg_new.png
     :width: 100%
     :group: developer
     :title: SVG code
