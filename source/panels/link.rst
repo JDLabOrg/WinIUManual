@@ -5,6 +5,8 @@ It is a function to set a hyperlink to the URL, page in the project, popup or pa
 
 .. image:: /_static/panels/link/link.png
 
+----
+
 Type
 --------
 

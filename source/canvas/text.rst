@@ -53,7 +53,7 @@ You can use this toolbar to edit and decorate your text. Fonts can be edited in 
     * - .. image:: /_static/canvas/unlink.png
           :height: 44px
       - Unlink
-      - Removes the link to the text.
+      - Remove the link to the text.
 
     * - .. image:: /_static/canvas/delete_style.png
           :height: 44px
@@ -63,4 +63,4 @@ You can use this toolbar to edit and decorate your text. Fonts can be edited in 
     * - .. image:: /_static/canvas/reversal.png
           :height: 44px
       - Change Input box Background
-      - Changes the background color of the input box.
+      - Change the background color of the input box.

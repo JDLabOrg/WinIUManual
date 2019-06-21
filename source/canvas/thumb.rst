@@ -8,14 +8,14 @@ Canvas Thumb
     .. image:: /_static/canvas/move.png
       :width: 44px
 
-    Used to move the widget.
+    Move the widget.
 
 - Fit
 
     .. image:: /_static/canvas/fit.png
       :width: 44px
 
-    Transform the inserted image to fit the widget size.
+    Transform the widget size of inserted image size.
 
 - Insert Image
 
