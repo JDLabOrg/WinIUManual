@@ -157,7 +157,7 @@ See :doc:`characteristics</widgets/complex/webMovie>`.
 
 .. _slide_detail:
 
-Slide / Range Slide
+Slider / Range Slider
 -----------------------
 Slider Inner Bar
 ````````````````````````
@@ -169,17 +169,26 @@ Slider Inner Bar
 Slider Text
 ````````````````
 
-.. image:: /_static/panels/detail/prop/012_slider_text.png
+.. image:: /_static/panels/detail/prop/012_slider_text_2.png
 
 - Type : Same as :ref:`Text<text_detail>`
 
-See :doc:`slide</widgets/programming/slide>`, :doc:`range slide</widgets/programming/rangeslide>` characteristics.
+See :doc:`slide</widgets/programming/slide>` characteristics.
+
+Range slider Text
+````````````````````
+
+.. image:: /_static/panels/detail/prop/012_range_text_2.png
+
+- Type : Same as :ref:`Text<text_detail>`
+
+See :doc:`range slide</widgets/programming/rangeslide>` characteristics.
 
 .. _switch_detail:
 
 Switch
 -----------
-.. image:: /_static/panels/detail/prop/013_switch.png
+.. image:: /_static/panels/detail/prop/013_switch_2.png
 
 - Checked : Status after build
 
@@ -189,7 +198,7 @@ See :doc:`characteristics</widgets/programming/switch>`.
 
 Flip switch
 -------------
-.. image:: /_static/panels/detail/prop/014_flip.png
+.. image:: /_static/panels/detail/prop/013_switch_2.png
 
 - Checked : Status after build
 
@@ -241,7 +250,7 @@ See :doc:`characteristics</widgets/programming/inputParagraphText>`.
 
 Checkbox
 -------------
-.. image:: /_static/panels/detail/prop/018_checkbox.png
+.. image:: /_static/panels/detail/prop/018_checkbox_2.png
 
 - Checked : Status after build
 
@@ -251,7 +260,7 @@ See :doc:`characteristics</widgets/programming/checkbox>`.
 
 Radio button
 -------------
-.. image:: /_static/panels/detail/prop/019_radio_btn.png
+.. image:: /_static/panels/detail/prop/019_radio_btn_2.png
 
 - Checked : Status after build
 - Group : Group name of a radio button
@@ -262,7 +271,7 @@ See :doc:`characteristics</widgets/programming/radiobutton>`.
 
 Form
 -------------
-.. image:: /_static/panels/detail/prop/020_form.png
+.. image:: /_static/panels/detail/prop/020_form_2.png
 
 - Action
 - Method
@@ -280,5 +289,3 @@ Collection
 - Composition
 
 See :doc:`characteristics</widgets/programming/collection>`.
-
-
