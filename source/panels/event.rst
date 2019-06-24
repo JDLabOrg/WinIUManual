@@ -16,7 +16,7 @@ Carousel
 
 .. image:: /_static/panels/event/event_01_new.png
 
-See :doc:`characteristics</widgets/complex/carousel>`.
+See :ref:`complex<carousel_complex>`.
 
 .. _collapsible_event_property:
 
@@ -25,7 +25,7 @@ Collapsible
 
 .. image:: /_static/panels/event/event_02_new.png
 
-See :doc:`characteristics</widgets/complex/collapsible>`.
+See :ref:`complex<collapsible_complex>`.
 
 .. _tabview_event_property:
 
@@ -34,7 +34,7 @@ Tab view & Simple tab view
 
 .. image:: /_static/panels/event/event_03_new.png
 
-See :doc:`tab view characteristics</widgets/complex/tabview>` and  :doc:`simple tab view characteristics</widgets/complex/simpleTabview>`.
+See :ref:`tab view complex<tab_complex>`. and  See :ref:`simple tab view complex<simpleTab_complex>`.
 
 .. _transition_event_property:
 
@@ -43,7 +43,7 @@ Transition
 
 .. image:: /_static/panels/event/event_04_new.png
 
-See :doc:`characteristics</widgets/complex/transition>`.
+See :ref:`complex<transition_complex>`.
 
 .. _panel_event_property:
 
@@ -52,7 +52,7 @@ Panel
 
 .. image:: /_static/panels/event/event_05_new.png
 
-See :doc:`characteristics</widgets/complex/panel>`.
+See :ref:`complex<panel_complex>`.
 
 .. _popup_event_property:
 
@@ -61,4 +61,4 @@ Popup
 
 .. image:: /_static/panels/event/event_06_new.png
 
-See :doc:`characteristics</widgets/complex/popup>`.
+See :ref:`complex<popup_complex>`.

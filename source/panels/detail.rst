@@ -76,7 +76,7 @@ Google map
 - Map style
     - Color theme
 
-See :doc:`characteristics</widgets/complex/googleMap>`.
+See :ref:`complex<googleMap_complex>`.
 
 .. _tweet_detail:
 
@@ -88,7 +88,7 @@ Tweet
 - URL to tweet
 - Button size : Medium or Large
 
-See :doc:`characteristics</widgets/complex/tweet>`.
+See :ref:`complex<tweet_complex>`.
 
 .. _facebook_detail:
 
@@ -100,7 +100,7 @@ Facebook like
 - Color scheme : Light and Dark
 - Show friend's face
 
-See :doc:`characteristics</widgets/complex/facebook>`.
+See :ref:`complex<fb_complex>`.
 
 .. _table_detail:
 
@@ -117,7 +117,7 @@ Table Row
 - Row span
 - Column span
 
-See :doc:`characteristics</widgets/complex/table>`.
+See :ref:`complex<table_complex>`.
 
 .. _carousel_detail:
 
@@ -129,7 +129,7 @@ Carousel
     - X position : X position from side
     - Y position : Y position from top
 
-See :doc:`characteristics</widgets/complex/carousel>`.
+See :ref:`complex<carousel_complex>`.
 
 .. _video_detail:
 
@@ -144,7 +144,7 @@ Video
     - Muted
     - Autoplay : Autoplay is only work when muted.
 
-See :doc:`characteristics</widgets/complex/videoClip>`.
+See :ref:`complex<clip_complex>`.
 
 .. _webmovie_detail:
 
@@ -155,9 +155,9 @@ Vimeo or Youtube
 - Autoplay
 - Loop
 
-See :doc:`characteristics</widgets/complex/webMovie>`.
+See :ref:`complex<webMovie_complex>`.
 
-.. _slide_detail:
+.. _slider_detail:
 
 Slider / Range Slider
 -----------------------
@@ -176,7 +176,7 @@ Slider Text
 - Type : Same as :ref:`Text<text_detail>`
 - Text name
 
-See :doc:`slide</widgets/programming/slide>` characteristics.
+See :ref:`slider programming<slider_program>` characteristics.
 
 Range slider Text
 ````````````````````
@@ -187,7 +187,7 @@ Range slider Text
 - Start text name
 - End text name
 
-See :doc:`range slide</widgets/programming/rangeslide>` characteristics.
+See :ref:`range slider programming<rangeSlider_program>` characteristics.
 
 .. _switch_detail:
 
@@ -198,7 +198,7 @@ Switch
 - Checked : Status after build
 - Name
 
-See :doc:`characteristics</widgets/programming/switch>`.
+See :ref:`programming<switch_program>`.
 
 .. _flip_switch_detail:
 
@@ -209,7 +209,7 @@ Flip switch
 - Checked : Status after build
 - Name
 
-See :doc:`characteristics</widgets/programming/flipswitch>`.
+See :ref:`programming<flip_program>`.
 
 .. _label_detail:
 
@@ -220,7 +220,7 @@ Label
 - For : Html id of a connected widget
 - Text
 
-See :doc:`characteristics</widgets/programming/label>`.
+See :ref:`programming<label_program>`.
 
 .. _button_detail:
 
@@ -230,7 +230,7 @@ Button
 
 - Type : default, reset and submit
 
-See :doc:`characteristics</widgets/programming/button>`.
+See :ref:`programming<button_program>`.
 
 .. _input_text_detail:
 
@@ -242,7 +242,7 @@ Input text
 - Min : Minimum of type
 - Max length
 
-See :doc:`characteristics</widgets/programming/inputText>`.
+See :ref:`programming<inputText_program>`.
 
 .. _input_paragraph_detail:
 
@@ -252,7 +252,7 @@ Input paragraph
 
 - Max length
 
-See :doc:`characteristics</widgets/programming/inputParagraphText>`.
+See :ref:`programming<inputParagraph_program>`.
 
 .. _checkbox_detail:
 
@@ -263,7 +263,7 @@ Checkbox
 - Checked : Status after build
 - Name
 
-See :doc:`characteristics</widgets/programming/checkbox>`.
+See :ref:`programming<checkbox_program>`.
 
 .. _radio_button_detail:
 
@@ -275,7 +275,7 @@ Radio button
 - Group : Group name of a radio button
 - Name
 
-See :doc:`characteristics</widgets/programming/radiobutton>`.
+See :ref:`programming<radioButton_program>`.
 
 .. _form_detail:
 
@@ -288,7 +288,7 @@ Form
 - Input hiddens
 - Name
 
-See :doc:`characteristics</widgets/programming/form>`.
+See :ref:`programming<form_program>`.
 
 .. _collection_detail:
 
@@ -299,7 +299,7 @@ Collection
 - Item count
 - Composition
 
-See :doc:`characteristics</widgets/programming/collection>`.
+See :ref:`programming<collection_program>`.
 
 File upload
 -------------
@@ -307,7 +307,7 @@ File upload
 
 - Name
 
-See :doc:`characteristics</widgets/programming/fileupload>`.
+See :ref:`programming<fileUpload_program>`.
 
 Select
 -------------
@@ -316,7 +316,7 @@ Select
 - Option
 - Name
 
-See :doc:`characteristics</widgets/programming/select>`.
+See :ref:`programming<select_program>`.
 
 Header/Footer
 -------------
