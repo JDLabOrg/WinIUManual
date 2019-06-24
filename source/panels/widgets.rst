@@ -17,7 +17,7 @@ Image and Text
 .. image:: /_static/panels/style/property/prop_002.png
 
 The image and text properties allow you to modify the alignment and spacing of images and text, insert and modify text and images.
-See :doc:`characteristics</widgets/basic/iconButton>`.
+See :ref:`basic<iconButton_basic>`.
 
 .. _carousel_style_property:
 

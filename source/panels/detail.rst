@@ -31,7 +31,7 @@ Text
 - Type : You can change a text tag in *<p>, <h1>* and *<h2>*
 - Ellipsis : You can add ellipsis to a selected line.
 
-See :doc:`characteristics</widgets/basic/text>`.
+See :ref:`basic<text_basic>`.
 
 .. _static_image_detail:
 
@@ -41,7 +41,7 @@ Static image
 
 - Alternative text : *alt* attribute in *<img>*
 
-See :doc:`characteristics</widgets/basic/staticImage>`.
+See :ref:`basic<staticImg_basic>`.
 
 .. _icon_button_detail:
 
@@ -53,7 +53,7 @@ Image and text
     - Top margin
     - Bottom margin
 
-See :doc:`characteristics</widgets/basic/iconButton>`.
+See :ref:`basic<iconButton_basic>`.
 
 .. _google_map_detail:
 
