@@ -2,7 +2,7 @@ Layout Widgets
 ==================
 
 Section
-==============================
+---------------------------------------
 .. image:: /_static/widgets/section.png
 
 A page is separated with section. Section uses *<section>* tag.

@@ -4,7 +4,7 @@ Complex Widgets
 .. _transition_complex:
 
 Transition
-==================
+---------------------------------------
 .. image:: /_static/widgets/transition.png
 
 Transition widget has two transition items.
@@ -16,7 +16,7 @@ See :ref:`event<transition_event_property>` properties.
 .. _carousel_complex:
 
 Carousel
-==================
+---------------------------------------
 .. image:: /_static/widgets/carousel.png
 
 Carousel widget has multiple carousel items.
@@ -28,7 +28,7 @@ See :ref:`style<carousel_style_property>`, :ref:`event<carousel_event_property>`
 .. _googleMap_complex:
 
 Google Map
-==================
+---------------------------------------
 .. image:: /_static/widgets/map.png
 
 Google Map widget represents google map element. You can input Map location wherever you want.
@@ -41,7 +41,7 @@ See :ref:`detail<google_map_detail>` properties.
 .. _webMovie_complex:
 
 Web Movie
-==================
+---------------------------------------
 .. image:: /_static/widgets/vimeo.png
 
 Web Movie widget supports Youtube or Vimeo. You can use Web Movie widget with **Short-Links** :
@@ -54,7 +54,7 @@ See :ref:`style<webmovie_property>`, :ref:`detail<webmovie_detail>` properties.
 .. _clip_complex:
 
 Video Clip
-==================
+---------------------------------------
 .. image:: /_static/widgets/video.png
 
 Video Clip widget supports MP4. You can input videos from Resource panel.
@@ -64,7 +64,7 @@ See :ref:`style<video_property>`, :ref:`detail<video_detail>` properties.
 .. _table_complex:
 
 Table
-==================
+---------------------------------------
 .. image:: /_static/widgets/table.png
 
 Table widget can add simple table on canvas.
@@ -74,7 +74,7 @@ See :ref:`style<table_property>`, :ref:`detail<table_detail>` properties.
 .. _simpleTab_complex:
 
 Simple Tab View
-==================
+---------------------------------------
 .. image:: /_static/widgets/simple_tab_view.png
 
 Simple Tab View widget has more simple structure than Tab View widget.
@@ -84,7 +84,7 @@ See :ref:`style<simple_tabview_style_property>`, :ref:`event<tabview_event_prope
 .. _tab_complex:
 
 Tab View
-==================
+---------------------------------------
 .. image:: /_static/widgets/tab_view.png
 
 Tab View widget has multiple Tabs .
@@ -94,7 +94,7 @@ See :ref:`style<tabview_style_property>`, :ref:`event<tabview_event_property>` p
 .. _collapsible_complex:
 
 Collapsible
-==================
+---------------------------------------
 .. image:: /_static/widgets/collapsible.png
 
 Collapsible widget has two item (Header and Content).
@@ -106,7 +106,7 @@ See :ref:`style<collapsible_style_property>`, :ref:`event<collapsible_event_prop
 .. _import_complex:
 
 Import
-==================
+---------------------------------------
 .. image:: /_static/widgets/import.png
 
 Import widget can import Composition. If you want to use Composition, connect target Composition into Import widget.
@@ -114,7 +114,7 @@ Import widget can import Composition. If you want to use Composition, connect ta
 .. _tweet_complex:
 
 Tweet Share Button
-==================
+---------------------------------------
 .. image:: /_static/widgets/twt.png
 
 With Tweet Share Button widget, you can add Share to Tweeter Button in your project. (No Resize)
@@ -124,7 +124,7 @@ See :ref:`detail<tweet_detail>` properties.
 .. _fb_complex:
 
 Facebook
-==================
+---------------------------------------
 .. image:: /_static/widgets/facebook.png
 
 With Facebook Like Button widget, you can add Share to Facebook Button in your project. (No Resize)
@@ -134,7 +134,7 @@ See :ref:`detail<facebook_detail>` properties.
 .. _progress_complex:
 
 Progress Bar
-==================
+---------------------------------------
 .. image:: /_static/widgets/progress_bar.png
 
 Progress Bar widget displays a progress bar.
@@ -145,7 +145,7 @@ See :ref:`properties<progressbar_property>`.
 .. _svg_complex:
 
 SVG
-==================
+---------------------------------------
 .. image:: /_static/widgets/svg.png
 
 SVG widget displays Scalable Vector Graphics.
@@ -156,7 +156,7 @@ See :ref:`properties<svg_property>`.
 .. _panel_complex:
 
 Panel
-==================
+---------------------------------------
 .. image:: /_static/navigation/structure/ic_add_panel.png
 
 You can add a panel by press [+] button of *Structure* panel.
@@ -167,7 +167,7 @@ See :ref:`style<panel_style_property>`, :ref:`event<panel_event_property>` prope
 .. _popup_complex:
 
 Popup
-==================
+---------------------------------------
 .. image:: /_static/navigation/structure/ic_add_popup.png
 
 You can add a popup by press [+] button of *Structure* panel.
