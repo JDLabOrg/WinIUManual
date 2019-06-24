@@ -1,5 +1,5 @@
 Programming Widgets
-============
+=====================
 
 .. _form_program:
 
