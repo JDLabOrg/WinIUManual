@@ -83,7 +83,7 @@ Default Buttons
       - A property that can change the color of the text.
 
     * - .. image:: /_static/toolbar/019_size.png
-          :height: 44px
+          :height: 33px
       - Zoom
       - This property zooms in and out of the canvas.
 
