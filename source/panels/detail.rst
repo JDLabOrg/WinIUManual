@@ -106,6 +106,8 @@ See :doc:`characteristics</widgets/complex/facebook>`.
 
 Table
 -----------------------
+.. image:: /_static/panels/detail/prop/008_table.png
+
 Table Row
 ``````````````
 
@@ -169,9 +171,10 @@ Slider Inner Bar
 Slider Text
 ````````````````
 
-.. image:: /_static/panels/detail/prop/012_slider_text_2.png
+.. image:: /_static/panels/detail/prop/012_slider_text_new.png
 
 - Type : Same as :ref:`Text<text_detail>`
+- Text name
 
 See :doc:`slide</widgets/programming/slide>` characteristics.
 
@@ -181,6 +184,8 @@ Range slider Text
 .. image:: /_static/panels/detail/prop/012_range_text_2.png
 
 - Type : Same as :ref:`Text<text_detail>`
+- Start text name
+- End text name
 
 See :doc:`range slide</widgets/programming/rangeslide>` characteristics.
 
@@ -191,6 +196,7 @@ Switch
 .. image:: /_static/panels/detail/prop/013_switch_2.png
 
 - Checked : Status after build
+- Name
 
 See :doc:`characteristics</widgets/programming/switch>`.
 
@@ -201,6 +207,7 @@ Flip switch
 .. image:: /_static/panels/detail/prop/013_switch_2.png
 
 - Checked : Status after build
+- Name
 
 See :doc:`characteristics</widgets/programming/flipswitch>`.
 
@@ -211,6 +218,7 @@ Label
 .. image:: /_static/panels/detail/prop/001_label_for.png
 
 - For : Html id of a connected widget
+- Text
 
 See :doc:`characteristics</widgets/programming/label>`.
 
@@ -228,7 +236,7 @@ See :doc:`characteristics</widgets/programming/button>`.
 
 Input text
 -------------
-.. image:: /_static/panels/detail/prop/016_input_txt.png
+.. image:: /_static/panels/detail/prop/016_input_txt_2.png
 
 - Max : Maximum of type
 - Min : Minimum of type
@@ -240,7 +248,7 @@ See :doc:`characteristics</widgets/programming/inputText>`.
 
 Input paragraph
 --------------------------
-.. image:: /_static/panels/detail/prop/017_input_p.png
+.. image:: /_static/panels/detail/prop/017_input_p_2.png
 
 - Max length
 
@@ -253,6 +261,7 @@ Checkbox
 .. image:: /_static/panels/detail/prop/018_checkbox_2.png
 
 - Checked : Status after build
+- Name
 
 See :doc:`characteristics</widgets/programming/checkbox>`.
 
@@ -264,6 +273,7 @@ Radio button
 
 - Checked : Status after build
 - Group : Group name of a radio button
+- Name
 
 See :doc:`characteristics</widgets/programming/radiobutton>`.
 
@@ -276,6 +286,7 @@ Form
 - Action
 - Method
 - Input hiddens
+- Name
 
 See :doc:`characteristics</widgets/programming/form>`.
 
@@ -289,3 +300,28 @@ Collection
 - Composition
 
 See :doc:`characteristics</widgets/programming/collection>`.
+
+File upload
+-------------
+.. image:: /_static/panels/detail/prop/023_file_upload.png
+
+- Name
+
+See :doc:`characteristics</widgets/programming/fileupload>`.
+
+Select
+-------------
+.. image:: /_static/panels/detail/prop/024_select.png
+
+- Option
+- Name
+
+See :doc:`characteristics</widgets/programming/select>`.
+
+Header/Footer
+-------------
+.. image:: /_static/panels/detail/prop/025_header.png
+
+- Composition
+
+See :doc:`characteristics</navigation/structure>`.

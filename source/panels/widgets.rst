@@ -189,3 +189,10 @@ Popup
 
 The popup property sets the dim color, the use of the close button, the image, and the layout.
 See :doc:`characteristics</widgets/complex/popup>`.
+
+Header/Footer
+``````````````
+.. image:: /_static/panels/style/property/prop_022.png
+
+The header/footer property sets the composition.
+See :doc:`characteristics</navigation/structure>`.
