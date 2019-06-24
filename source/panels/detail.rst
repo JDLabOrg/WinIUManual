@@ -31,7 +31,7 @@ Text
 - Type : You can change a text tag in *<p>, <h1>* and *<h2>*
 - Ellipsis : You can add ellipsis to a selected line.
 
-See :ref:`basic<text_basic>`.
+See :ref:`text<text_basic>`.
 
 .. _static_image_detail:
 
@@ -41,7 +41,7 @@ Static image
 
 - Alternative text : *alt* attribute in *<img>*
 
-See :ref:`basic<staticImg_basic>`.
+See :ref:`static image<staticImg_basic>`.
 
 .. _icon_button_detail:
 
@@ -53,7 +53,7 @@ Image and text
     - Top margin
     - Bottom margin
 
-See :ref:`basic<iconButton_basic>`.
+See :ref:`image and text<iconButton_basic>`.
 
 .. _google_map_detail:
 
@@ -76,11 +76,11 @@ Google map
 - Map style
     - Color theme
 
-See :ref:`complex<googleMap_complex>`.
+See :ref:`google map<googleMap_complex>`.
 
 .. _tweet_detail:
 
-Tweet
+Tweet share button
 -----------------------
 .. image:: /_static/panels/detail/prop/006_twt.png
 
@@ -88,7 +88,7 @@ Tweet
 - URL to tweet
 - Button size : Medium or Large
 
-See :ref:`complex<tweet_complex>`.
+See :ref:`tweet share button<tweet_complex>`.
 
 .. _facebook_detail:
 
@@ -100,7 +100,7 @@ Facebook like
 - Color scheme : Light and Dark
 - Show friend's face
 
-See :ref:`complex<fb_complex>`.
+See :ref:`facebook like<fb_complex>`.
 
 .. _table_detail:
 
@@ -117,7 +117,7 @@ Table Row
 - Row span
 - Column span
 
-See :ref:`complex<table_complex>`.
+See :ref:`table<table_complex>`.
 
 .. _carousel_detail:
 
@@ -129,11 +129,11 @@ Carousel
     - X position : X position from side
     - Y position : Y position from top
 
-See :ref:`complex<carousel_complex>`.
+See :ref:`carousel<carousel_complex>`.
 
 .. _video_detail:
 
-Video
+Video clip
 -----------------------
 .. image:: /_static/panels/detail/prop/010_video_attrib.png
 
@@ -144,7 +144,7 @@ Video
     - Muted
     - Autoplay : Autoplay is only work when muted.
 
-See :ref:`complex<clip_complex>`.
+See :ref:`video clip<clip_complex>`.
 
 .. _webmovie_detail:
 
@@ -155,7 +155,7 @@ Vimeo or Youtube
 - Autoplay
 - Loop
 
-See :ref:`complex<webMovie_complex>`.
+See :ref:`web movie<webMovie_complex>`.
 
 .. _slider_detail:
 
@@ -176,7 +176,7 @@ Slider Text
 - Type : Same as :ref:`Text<text_detail>`
 - Text name
 
-See :ref:`slider programming<slider_program>` characteristics.
+See :ref:`slider<slider_program>` characteristics.
 
 Range slider Text
 ````````````````````
@@ -187,7 +187,7 @@ Range slider Text
 - Start text name
 - End text name
 
-See :ref:`range slider programming<rangeSlider_program>` characteristics.
+See :ref:`range slider<rangeSlider_program>` characteristics.
 
 .. _switch_detail:
 
@@ -198,7 +198,7 @@ Switch
 - Checked : Status after build
 - Name
 
-See :ref:`programming<switch_program>`.
+See :ref:`switch<switch_program>`.
 
 .. _flip_switch_detail:
 
@@ -209,7 +209,7 @@ Flip switch
 - Checked : Status after build
 - Name
 
-See :ref:`programming<flip_program>`.
+See :ref:`flip switch<flip_program>`.
 
 .. _label_detail:
 
@@ -220,7 +220,7 @@ Label
 - For : Html id of a connected widget
 - Text
 
-See :ref:`programming<label_program>`.
+See :ref:`label<label_program>`.
 
 .. _button_detail:
 
@@ -230,7 +230,7 @@ Button
 
 - Type : default, reset and submit
 
-See :ref:`programming<button_program>`.
+See :ref:`button<button_program>`.
 
 .. _input_text_detail:
 
@@ -242,17 +242,17 @@ Input text
 - Min : Minimum of type
 - Max length
 
-See :ref:`programming<inputText_program>`.
+See :ref:`input text<inputText_program>`.
 
 .. _input_paragraph_detail:
 
-Input paragraph
+Input paragraph text
 --------------------------
 .. image:: /_static/panels/detail/prop/017_input_p_2.png
 
 - Max length
 
-See :ref:`programming<inputParagraph_program>`.
+See :ref:`input paragraph text<inputParagraph_program>`.
 
 .. _checkbox_detail:
 
@@ -263,7 +263,7 @@ Checkbox
 - Checked : Status after build
 - Name
 
-See :ref:`programming<checkbox_program>`.
+See :ref:`checkbox<checkbox_program>`.
 
 .. _radio_button_detail:
 
@@ -275,7 +275,7 @@ Radio button
 - Group : Group name of a radio button
 - Name
 
-See :ref:`programming<radioButton_program>`.
+See :ref:`radio button<radioButton_program>`.
 
 .. _form_detail:
 
@@ -288,7 +288,7 @@ Form
 - Input hiddens
 - Name
 
-See :ref:`programming<form_program>`.
+See :ref:`form<form_program>`.
 
 .. _collection_detail:
 
@@ -299,7 +299,7 @@ Collection
 - Item count
 - Composition
 
-See :ref:`programming<collection_program>`.
+See :ref:`collection<collection_program>`.
 
 File upload
 -------------
@@ -307,7 +307,7 @@ File upload
 
 - Name
 
-See :ref:`programming<fileUpload_program>`.
+See :ref:`file upload<fileUpload_program>`.
 
 Select
 -------------
@@ -316,7 +316,7 @@ Select
 - Option
 - Name
 
-See :ref:`programming<select_program>`.
+See :ref:`select<select_program>`.
 
 Header/Footer
 -------------
@@ -324,4 +324,4 @@ Header/Footer
 
 - Composition
 
-See :doc:`characteristics</navigation/structure>`.
+See :doc:`structure</navigation/structure>`.

@@ -123,7 +123,7 @@ See :ref:`detail<tweet_detail>` properties.
 
 .. _fb_complex:
 
-Facebook
+Facebook like button
 ---------------------------------------
 .. image:: /_static/widgets/facebook.png
 
