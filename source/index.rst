@@ -17,7 +17,7 @@ Welcome to Windows {{project_name}}'s documentation!
   :maxdepth: 2
   :caption: Tutorial
 
-  editor_tutorial/tutorial
+  tutorial/index
 
 .. toctree::
    :maxdepth: 2
