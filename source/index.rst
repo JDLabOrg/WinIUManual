@@ -14,10 +14,10 @@ Welcome to Windows {{project_name}}'s documentation!
    introduction/env
 
 .. toctree::
-  :maxdepth: 2
-  :caption: Tutorial
+   :maxdepth: 2
+   :caption: Tutorial
 
-  tutorial/index
+   tutorial/index
 
 .. toctree::
    :maxdepth: 2
