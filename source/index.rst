@@ -14,6 +14,12 @@ Welcome to Windows {{project_name}}'s documentation!
    introduction/env
 
 .. toctree::
+  :maxdepth: 2
+  :caption: Tutorial
+
+  editor_tutorial/tutorial
+
+.. toctree::
    :maxdepth: 2
    :caption: Screen
 
