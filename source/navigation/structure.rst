@@ -5,7 +5,7 @@ Structure is a panel that shows the structure of elements (sections, headers, fo
 You can delete elements, move them to drag and drops, or add new sections.
 You can also change the structure of this panel or modify the names of the added elements to the name you want.
 
-.. image:: /_static/navigation/structure/structure_new.png
+.. image:: /_static/navigation/structure/structure_panel.png
 
 Buttons
 --------------
@@ -58,3 +58,9 @@ Buttons
           :height: 44px
       - Delete widget(s)
       - Delete the selected widget.
+
+    * - .. image:: /_static/navigation/structure/editor_hidden.png
+          :height: 44px
+      - Editor hidden
+      - When the cursor is placed on the widget,
+        the function that appears will make the selected widget invisible on the canvas.
