@@ -18,6 +18,8 @@ Shortcut
 ---------------------------------------
 
 - :kbd:`F5` : Refresh canvas
+- :kbd:`ctrl` + :kbd:`l` : Show outline
+- :kbd:`ctrl` + :kbd:`r` : Show ruler
 - :kbd:`ctrl` + :kbd:`+` : Increase zoom
 - :kbd:`ctrl` + :kbd:`-` : Decrease zoom
 

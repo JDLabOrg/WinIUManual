@@ -33,13 +33,14 @@ Canvas
 ---------
 - Refresh : Draw the new canvas.
 - Show outline : Draw the outline of the widget. It is mainly used when there is no widget background.
+- Show Ruler : Show or hide (vertical/horizontal) rulers.
 - Increase zoom
 - Decrease zoom
 
 Help
 --------
 - About : Notifies you of the current version of the program.
-- Home : Go to the Namo WebEditor ONE site.
+- Home : Go to the {{project_name}} site.
 - License
 - Acknowledgements
 - Leave Feedback
