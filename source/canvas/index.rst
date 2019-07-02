@@ -13,10 +13,10 @@ The canvas is a screen that actually works in the editor. The canvas has a toolb
       - Description
 
     * - .. image:: /_static/canvas/menu_outline.png
-      - Draw the outline of the widget. It is mainly used when there is no widget background.
+      - Show outline menu shows the area of ​​the structure or the size of the widget in lines.
 
     * - .. image:: /_static/canvas/menu_ruler.png
-      - Show or hide (vertical/horizontal) rulers.
+      - Show ruler menu is used to indicate the size and location of the widget.
 
 .. toctree::
     thumb
