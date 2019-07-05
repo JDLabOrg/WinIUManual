@@ -60,7 +60,7 @@ Default Buttons
       - A widget with text automatically centered. The height (h) of the widget can only be a pixel (px) unit.
 
     * - .. image:: /_static/toolbar/012_xywh.png
-          :height: 55px
+          :height: 44px
       - Set a *Position* and *Size*
       - This property allows you to set the size and position of the widget. It can be set in units of pixel (px) and percentage (%).
 
@@ -91,6 +91,10 @@ Default Buttons
           :height: 66px
       - Tracing Screen
       - *Tracing Screen* is a function that allows you to insert the desired image into the work area.
+
+          .. image:: /_static/toolbar/024_tracing_screen.png
+          When you click the button, a popup pops up and sets detailed options along with loading the image.
+
 
 .. Image references
 .. |align-x| image:: /_static/toolbar/013_align_x.png
