@@ -5,4 +5,4 @@ License
 - Light (Basic) : 20 pages
 - Pro : Unlimited
 
-** `OFFICIAL SITE <https://www.namowebeditor.com/product/pricing/>`__ **
+.. Note:: For more information, go to `OFFICIAL SITE <https://www.namowebeditor.com/product/pricing/>`__
