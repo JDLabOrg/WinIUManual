@@ -12,6 +12,7 @@ Welcome to Windows {{project_name}}'s documentation!
 
    introduction/whatis
    introduction/env
+   introduction/license
 
 .. toctree::
    :maxdepth: 2

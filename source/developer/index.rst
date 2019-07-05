@@ -6,7 +6,7 @@ You can open the developer mode panel via the view menu.
 
 .. image:: /_static/developer/dev_screen.png
 
-You can add code in the left panel and see the preview code in the right panel.
+You can add code in the left panel and see the preview code in the right panel by clicking :kbd:`preview code` button.
 
 ID & Class
 -----------------------

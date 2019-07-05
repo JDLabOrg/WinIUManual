@@ -61,6 +61,6 @@ Buttons
 
     * - .. image:: /_static/navigation/structure/editor_hidden.png
           :height: 44px
-      - Editor hidden
+      - Hide widget(s)
       - When the cursor is placed on the widget,
         the function that appears will make the selected widget invisible on the canvas.
