@@ -41,21 +41,21 @@ Tutorial
   :group: tutorial
 
 .. thumbnail:: /_static/tutorial/step_009.png
-:width: 100%
-:group: tutorial
+  :width: 100%
+  :group: tutorial
 
 .. thumbnail:: /_static/tutorial/step_010.png
-:width: 100%
-:group: tutorial
+  :width: 100%
+  :group: tutorial
 
 .. thumbnail:: /_static/tutorial/step_011.png
   :width: 100%
   :group: tutorial
 
 .. thumbnail:: /_static/tutorial/step_012.png
-:width: 100%
-:group: tutorial
+  :width: 100%
+  :group: tutorial
 
 .. thumbnail:: /_static/tutorial/step_013.png
-:width: 100%
-:group: tutorial
+  :width: 100%
+  :group: tutorial
