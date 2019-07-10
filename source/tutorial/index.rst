@@ -1,41 +1,61 @@
 Tutorial
 =============================
 
-.. thumbnail:: /_static/tutorial/01.png
+.. thumbnail:: /_static/tutorial/step_001.png
   :width: 100%
   :group: tutorial
 
 
-.. thumbnail:: /_static/tutorial/02.png
+.. thumbnail:: /_static/tutorial/step_002.png
   :width: 100%
   :group: tutorial
 
 
-.. thumbnail:: /_static/tutorial/03.png
+.. thumbnail:: /_static/tutorial/step_003.png
   :width: 100%
   :group: tutorial
 
 
-.. thumbnail:: /_static/tutorial/04.png
+.. thumbnail:: /_static/tutorial/step_004.png
   :width: 100%
   :group: tutorial
 
 
-.. thumbnail:: /_static/tutorial/05.png
+.. thumbnail:: /_static/tutorial/step_005.png
   :width: 100%
   :group: tutorial
 
 
-.. thumbnail:: /_static/tutorial/06.png
+.. thumbnail:: /_static/tutorial/step_006.png
   :width: 100%
   :group: tutorial
 
 
-.. thumbnail:: /_static/tutorial/07.png
+.. thumbnail:: /_static/tutorial/step_007.png
   :width: 100%
   :group: tutorial
 
 
-.. thumbnail:: /_static/tutorial/08.png
+.. thumbnail:: /_static/tutorial/step_008.png
   :width: 100%
   :group: tutorial
+
+.. thumbnail:: /_static/tutorial/step_009.png
+:width: 100%
+:group: tutorial
+
+.. thumbnail:: /_static/tutorial/step_010.png
+:width: 100%
+:group: tutorial
+
+.. thumbnail:: /_static/tutorial/step_011.png
+  :width: 100%
+  :group: tutorial
+
+.. thumbnail:: /_static/tutorial/step_012.png
+:width: 100%
+:group: tutorial
+
+.. thumbnail:: /_static/tutorial/step_013.png
+:width: 100%
+:group: tutorial
