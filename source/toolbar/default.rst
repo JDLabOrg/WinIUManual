@@ -92,8 +92,9 @@ Default Buttons
       - Tracing Screen
       - *Tracing Screen* is a function that allows you to insert the desired image into the work area.
 
-          .. image:: /_static/toolbar/024_tracing_screen.png
-          When you click the button, a popup pops up and sets detailed options along with loading the image.
+        |tracing_screen|
+
+        When you click the button, a popup pops up and sets detailed options along with loading the image.
 
 
 .. Image references
@@ -109,3 +110,4 @@ Default Buttons
   :height: 44px
 .. |redo| image:: /_static/toolbar/004_redo.png
   :height: 44px
+.. |tracing_screen| image:: /_static/toolbar/024_tracing_screen.png
