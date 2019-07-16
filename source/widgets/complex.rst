@@ -44,7 +44,9 @@ Web Movie
 ---------------------------------------
 .. image:: /_static/widgets/vimeo.png
 
-Web Movie widget supports Youtube or Vimeo. You can use Web Movie widget with **Short-Links** :
+Web Movie widget supports Youtube or Vimeo.
+(Autoplay is available only when video is muted. The mute can be set in the detail panel.)
+You can use Web Movie widget with **Short-Links** :
 
 * ``Vimeo`` : http://vimeo.com/ **videoURL**
 * ``Youtube`` : http://youtu.be/ **videoURL**
@@ -58,6 +60,7 @@ Video Clip
 .. image:: /_static/widgets/video.png
 
 Video Clip widget supports MP4. You can input videos from Resource panel.
+(Autoplay is available only when video is muted. The mute can be set in the detail panel.)
 
 See :ref:`style<video_property>`, :ref:`detail<video_detail>` properties.
 
