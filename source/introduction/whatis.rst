@@ -1,4 +1,4 @@
-.. image:: /_static/main_img_new.png
+.. image:: /_static/main_img.png
 
 What is {{project_name}}?
 =============================
