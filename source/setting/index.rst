@@ -80,7 +80,7 @@ External API is a menu for configuring the external APIs used in the project.
 
 Custom Code
 --------------
-.. thumbnail:: /_static/setting/set_05.png
+.. thumbnail:: /_static/setting/set_06.png
     :width: 100%
     :group: setting
     :title: Custom Code
