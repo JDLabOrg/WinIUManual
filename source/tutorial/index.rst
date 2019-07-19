@@ -1,5 +1,7 @@
 Tutorial
 =============================
+Create a simple landing page through tutorials and set up a responsive web through media query settings.
+
 
 .. thumbnail:: /_static/tutorial/step_001.png
   :width: 100%
