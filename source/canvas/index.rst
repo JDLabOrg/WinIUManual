@@ -5,20 +5,23 @@ The canvas is a screen that actually works in the editor. The canvas has a toolb
 .. image:: /_static/canvas/canvas_new.png
 
 .. list-table::
-    :widths: 3 10
+    :widths: 3 3 10
     :header-rows: 1
     :class: prevent-responsive-table
 
     * - Menu
+      - Shortcut
       - Description
 
-    * - .. image:: /_static/canvas/menu_outline.png
+    * - Show Outline
+      - :kbd:`ctrl` + :kbd:`l`
       - Show outline menu shows the area of ​​the structure or the size of the widget in lines.
 
-    * - .. image:: /_static/canvas/menu_ruler.png
+    * - Show Ruler
+      - :kbd:`ctrl` + :kbd:`r`
       - Show ruler menu is used to indicate the size and location of the widget.
 
-          When the ruler is on, detailed coordinates will appear when you move the widget, 
+          When the ruler is on, detailed coordinates will appear when you move the widget,
           click the cursor on the ruler at the desired position, and the guideline will be created.
 
 .. toctree::
