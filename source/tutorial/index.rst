@@ -2,6 +2,8 @@ Tutorial
 =============================
 Create a simple landing page through tutorials and set up a responsive web through media query settings.
 
+If you need a project file, click this `link (project) </_static/tutorial/tutorial_racette_webpage.zip>`_.
+if you only need the images used in the tutorial project, click this `link (images) </_static/tutorial/tutorial_racette_webpage.zip>`_.
 
 .. thumbnail:: /_static/tutorial/step_001.png
   :width: 100%
