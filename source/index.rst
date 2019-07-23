@@ -20,7 +20,8 @@ Welcome to Windows {{project_name}}'s documentation!
    :maxdepth: 2
    :caption: Tutorial
 
-   tutorial/index
+   tutorial/basic
+   tutorial/usage
 
 .. toctree::
    :maxdepth: 2
