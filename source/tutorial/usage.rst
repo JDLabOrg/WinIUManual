@@ -24,8 +24,12 @@ Carousel
   :width: 100%
   :group: Carousel usage
 
-  Transition
-  -------------
-  .. thumbnail:: /_static/tutorial/widget_usage/.png
-    :width: 100%
-    :group: Transition usage
+.. thumbnail:: /_static/tutorial/widget_usage/carousel_06.png
+  :width: 100%
+  :group: Carousel usage
+
+Transition
+-------------
+.. thumbnail:: /_static/tutorial/widget_usage/.png
+  :width: 100%
+  :group: Transition usage
