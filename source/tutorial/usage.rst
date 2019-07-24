@@ -34,7 +34,7 @@ Carousel
 
 Transition
 -------------
-.. thumbnail:: /_static/tutorial/widget_usage/trans_build.gif
+.. thumbnail:: /_static/tutorial/widget_usage/
   :width: 100%
   :group: Transition usage
 
