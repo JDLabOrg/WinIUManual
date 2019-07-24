@@ -30,6 +30,26 @@ Carousel
 
 Transition
 -------------
-.. thumbnail:: /_static/tutorial/widget_usage/.png
+.. thumbnail:: /_static/tutorial/widget_usage/trans_01.png
+  :width: 100%
+  :group: Transition usage
+
+.. thumbnail:: /_static/tutorial/widget_usage/trans_02.png
+  :width: 100%
+  :group: Transition usage
+
+.. thumbnail:: /_static/tutorial/widget_usage/trans_03.png
+  :width: 100%
+  :group: Transition usage
+
+.. thumbnail:: /_static/tutorial/widget_usage/trans_04.png
+  :width: 100%
+  :group: Transition usage
+
+.. thumbnail:: /_static/tutorial/widget_usage/trans_05.png
+  :width: 100%
+  :group: Transition usage
+
+.. thumbnail:: /_static/tutorial/widget_usage/trans_06.png
   :width: 100%
   :group: Transition usage
