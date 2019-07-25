@@ -48,3 +48,9 @@ Welcome to Windows {{project_name}}'s documentation!
    :caption: External API
 
    javascript/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Version
+
+   version/changelog
